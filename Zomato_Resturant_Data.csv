@@ -1,0 +1,1001 @@
+RESTAURANT_NAME,CITY,AREA,RATING,RATING_COUNT,CUSINE,Online_Order,TABLE_RESERVATION,FAMOUS_FOOD
+"Sainik Food","Delhi NCR","Pandav Nagar",3.2,21,"North Indian",No,No,NULL
+"Kunal's Creamery & Eatery",Mumbai,Ambernath,3.6,51,"Street Food, Chinese, Fast Food",No,No,"Penne Pasta"
+"Brij Palace Restaurant","Delhi NCR",Jasola,0,0,"North Indian",No,No,"Chana Masala , Butter Naan , Paneer Bhujia , Dal Makhani"
+"Sahib Hotel","Delhi NCR",Paharganj,0,0,"North Indian",No,No,NULL
+Chunky's,Kolkata,Shibpur,3,78,"Italian, Pizza, Continental",Yes,No,NULL
+"The Food Story","Delhi NCR","Sector 17, Faridabad",0,0,"North Indian, Chinese",Yes,No,NULL
+"Manish Indian & Chinese Food Corner","Delhi NCR",Mahipalpur,0,0,"Chinese, North Indian, Rolls",No,No,NULL
+Applemint,Mumbai,Kharghar,3.5,94,Chinese,Yes,No,"Momos , Liti Chokha , Chicken Momo , Litti , Noodle"
+"Way To Waffles","Delhi NCR",Vaishali,3.6,31,"Italian, Fast Food, Desserts",Yes,No,NULL
+"Food Fantasy","Delhi NCR","Mayur Vihar Phase 1",3.8,437,"North Indian, Chinese, Fast Food",Yes,No,"Tandoori Chicken , Pizza , Dal Makhani , Butter Chicken , Tomato Soup , Murgh Lababdar , Fried Rice Chicken"
+"Curry And Combos Twist",Mumbai,"Goregaon East",4.4,92,"North Indian, Chinese, Fast Food, Pizza, Panini, Sandwich, South Indian",Yes,No,"Kadhai Paneer , Paneer Tikka , Gulab Jamun , Cheese Garlic Naan , Mushroom Tikka , Cheese Pav Bhaji , Dum Biryani"
+"Friend Z Cafe","Delhi NCR",Rohini,0,0,Beverages,No,No,NULL
+"Bunty Fast Food Centre",Kolkata,Behala,0,0,"Fast Food",Yes,No,NULL
+"Nutritious Bites","Delhi NCR",Rohini,3,77,"Healthy Food",Yes,No,NULL
+"Bombay's Royal China","Delhi NCR","Prashant Vihar",3.4,42,"Chinese, Fast Food, Momos",Yes,No,NULL
+"Food Village",Kolkata,Baranagar,2.8,355,"North Indian",Yes,No,"Tandoori Chicken , Fish , Bbq Chicken , Veg Pulao , Coffee , Biryani , Naan"
+"Gazzab Family Restaurant","Delhi NCR",Palam,3.5,41,"Chinese, North Indian",Yes,No,NULL
+"The Bunk House","Delhi NCR","Hauz Khas Village",3.5,104,"Italian, Continental, North Indian",No,No,"Mocktails , Pasta , Chilli Chicken , Pizza , Nachos"
+"AIR- An Ivory Region","Delhi NCR","Punjabi Bagh",4.2,2713,"North Indian, Chinese, Continental, Asian",No,Yes,"Pizza , Chicken Tikka , Momos , Paneer Tikka , Pink Pasta , Noodle , Mocktails"
+"Pizza Galleria","Delhi NCR","Gaur City 2",3.7,54,"Pizza, Fast Food",Yes,No,NULL
+"Brijwasi Sweets",Mumbai,"Vile Parle East",3.5,23,Mithai,No,No,NULL
+"Chakkhna : Beyond Peanuts","Delhi NCR","Sector 49",4,690,"North Indian, Biryani, Mughlai, Kebab",Yes,No,"Dal Makhani , Dahi Ke Sholey , Paneer Tikka , Jhoomta Kukkad , Naan , Biryani , Chicken Tikka"
+"Truffle Tangles","Delhi NCR","Sector 49",3.8,41,"Bakery, Desserts, South Indian, North Indian, Bengali",No,No,"Chocolate Truffle , Cupcake , Fruit Cake , Designer Cakes"
+Pizzaman,Kolkata,"Sector 5, Salt Lake",3.2,292,"Pizza, Italian, American",Yes,No,"Burgers , Sandwich , Prawn Pizza , Hot Dog , Cottage Cheese Pizza , Chicken Burger"
+"Foodee Hub","Delhi NCR","Uttam Nagar",3.2,14,"Chinese, North Indian",Yes,No,NULL
+"Anand Special Nasta","Delhi NCR","Uttam Nagar",0,0,"North Indian",No,No,NULL
+"Taste Of Kerala","Delhi NCR","Sector 81, Faridabad",0,0,"South Indian",No,No,NULL
+"Pepper And Salt","Delhi NCR","Gaur City 2",3.2,11,"Chinese, North Indian",Yes,No,NULL
+"Capri Chef Cart","Delhi NCR",Vikaspuri,3.8,503,Chinese,Yes,No,"Momos , Chowmein , Noodle , Honey Chilli Potatoes , Spring Roll , Burgers , Chilli Chicken"
+"Wah Shah Ji Wah","Delhi NCR","Tilak Nagar",3.4,17,"North Indian",Yes,No,NULL
+"Food Swag","Delhi NCR","Uttam Nagar",0,0,"Rolls, Chinese, Fast Food, Salad, North Indian",No,No,NULL
+"Pizza Tree","Delhi NCR","Sector 51, Noida",3.7,129,"Continental, Fast Food, Desserts, Italian, Pizza",Yes,No,"Farm Pizza , Cheesy Pizza , Garlic Bread , Paneer Delight Pizza"
+"Coffee House",Mumbai,Fort,3.9,104,Cafe,Yes,Yes,"Coffee , Nachos , Garlic Bread , Cappuccino , Hot Chocolate , Fries , Chocolate Mousse"
+"Black Paper","Delhi NCR","Sector 34, Noida",2.8,6,"North Indian, Chinese",Yes,No,NULL
+"Vivoo Chicken Corner","Delhi NCR",Ballabhgarh,0,0,"North Indian, Chinese",No,No,NULL
+"The 6 Russel Street",Kolkata,Chowringhee,3.7,291,"Rolls, Sandwich, Fast Food",Yes,No,"Sandwich , Momos , Cheese Chicken Roll , Vada Pav , Prawn Rolls , Pasta , Chicken Egg Roll"
+EggOMogo,Mumbai,"Castle Mill, Thane West",4.7,76,"Fast Food, Biryani",Yes,No,"Steak , Biryani , Sandwich , Burgers , Omelette , Mocktails , Egg Chilli"
+"The Biryani Darbar",Kolkata,"New Town",0,0,"Biryani, North Indian, Chinese",No,No,NULL
+"Biryani & Kormas","Delhi NCR","Sector 43, Faridabad",3.3,40,Biryani,Yes,No,NULL
+eat.fit,"Delhi NCR","MG Road, Gurgaon",4.3,820,"Healthy Food, North Indian, Biryani, Continental, Desserts",Yes,No,"Salad , Dal Makhani , Rajma , Veg Thali , Pudding , Paratha , Chole"
+"Aggarwal Cake Village","Delhi NCR","Uttam Nagar",3.4,21,"Bakery, Fast Food",Yes,No,NULL
+"Kachhomal Sweets",Mumbai,Ulhasnagar,3.7,52,Mithai,No,No,NULL
+"Maa Sheetla Sweets & Caterers","Delhi NCR","Sector 14, Gurgaon",2.9,4,"Mithai, Street Food",No,No,NULL
+"Crispy Masala Chicken",Kolkata,Baguihati,3.6,66,"Burger, Fast Food",Yes,No,NULL
+Rehdiwalaa.com,"Delhi NCR","Sector 53, Gurgaon",0,0,Beverages,No,No,NULL
+"King's Shawarma","Delhi NCR","Raj Nagar",3.5,36,Rolls,Yes,No,NULL
+"Shri Ram Bikaner Sweet & Snacks","Delhi NCR","Sector 31, Faridabad",0,0,"Mithai, Street Food",No,No,NULL
+"Taj Biryani Center","Delhi NCR","Sector 33, Gurgaon",0,0,"Biryani, Mughlai",No,No,NULL
+"Eat & Gulp","Delhi NCR",Azadpur,3,30,"Italian, Desserts",Yes,No,NULL
+"Caesar's Kitchen","Delhi NCR","Sector 38, Noida",3.6,28,"Continental, Chinese",No,No,NULL
+"Jain Sweets & Bakers","Delhi NCR",Mahipalpur,3.2,9,"North Indian, Mithai",No,No,NULL
+"Punjabi Wok","Delhi NCR","Ashok Vihar Phase 1",2.7,59,"North Indian, Chinese",Yes,No,"Seekh Kebab , Dal Makhani"
+"The Real Heavens","Delhi NCR","Sector 51, Noida",2.5,34,"North Indian, Chinese",Yes,No,Lassi
+"M's Kitchen",Mumbai,Vashi,3.8,286,"Pizza, Talianska",No,No,"Ravioli , Cheesy Pizza , Lava Cake , Chocolava Cake , Spaghetti Pasta , Paneer Pizza , Garlic Bread"
+"Rubaab Restaurant","Delhi NCR","Gamma 1",3.7,503,"North Indian, Mughlai, Chinese",Yes,No,"Dal Makhani , Panneer Butter Masala , Murgh Patiala , Naan , Raita , Paneer Lababdar , Biryani"
+"Petuk Food Parlour",Kolkata,Behala,0,0,"North Indian, Chinese",Yes,No,NULL
+"Rashmin The Mithai Shop",Mumbai,"Malad East",3.8,43,"Mithai, Street Food",No,No,Panipuri
+"Cookie Man",Kolkata,"Prince Anwar Shah Road",4.1,322,"Bakery, Desserts",Yes,No,"Walnut Brownie , Choco Chip Cookies , Tea , Almond Cookies , Almond Brownie , Hot Coffee , Cappuccino"
+Ayub's,Mumbai,Fort,3.9,1376,"Rolls, North Indian, Mughlai, Kebab",No,No,"Rolls , Beda Roti , Biryani , Chicken Tikka Roll , Paneer Tikka Roll , Aloo Paneer , Kathi Roll"
+"Welcome Chicken Corner","Delhi NCR","East of Kailash",3.8,121,"North Indian, Mughlai, Momos",Yes,No,"Kadhai Murgh , Momos , Chicken Biryani , Shawarma Roll , Fried Rice , Soya Malai Tikka , Tandoori Chicken"
+"Domino's Pizza","Delhi NCR","Sector 18, Noida",3.9,1428,"Pizza, Fast Food",Yes,No,"Pizza , Onion Capsicum , Peppy Paneer , Calzone , Chocolava Cake , Stuffed Garlic Bread , Pasta"
+"Swad Food & Caterers","Delhi NCR",Janakpuri,3.8,379,"North Indian, Street Food",Yes,No,"Thali , Shahi Paneer , Dal Makhani , Noodle , Chole Bhature , Chur Chur Naan , Manchurian"
+"Jai Shree Ram Sweets","Delhi NCR","Sector 14, Gurgaon",2.9,4,"Mithai, Street Food",No,No,NULL
+"M/S Binode Behari Nag Ganesh Chandra Dutta",Kolkata,"Dalhousie BBD Bagh",3.6,22,Mishti,No,No,NULL
+"Red Chilli Hub","Delhi NCR","Tughlakabad Institutional Area",0,0,Chinese,No,No,NULL
+"Sonu Shudh Bhojanalya","Delhi NCR","Mayur Vihar Phase 3",3.6,54,"North Indian",Yes,No,NULL
+"Shree Radhey Shyam Dhaba","Delhi NCR",Mahipalpur,0,0,"North Indian",No,No,NULL
+"Punjabi Factory","Delhi NCR",Rohini,0,0,"North Indian, Chinese",No,No,NULL
+"Pizza Terminal","Delhi NCR","Laxmi Nagar",0,0,"Pizza, Fast Food",Yes,No,NULL
+"Dunlop Hotel and Restaurant",Kolkata,Baranagar,3.4,792,"North Indian, Mughlai, Chinese",Yes,No,"Biryani , Chicken Curry , Kulcha , Tandoori Roti , Chicken Masala , Chilli Chicken , Rolls"
+Deseez,"Delhi NCR","Sector 39, Gurgaon",3.9,273,"Biryani, Mughlai, Rolls",Yes,No,"Butter Chicken , Dal Makhani , Vegetable Biryani , Raita , Patra Ni Machhi , Roti , Momos"
+"Chefs and Cooks Caterers","Delhi NCR","Uttam Nagar",0,0,"Fast Food, North Indian",Yes,No,NULL
+"The Parantha Corner","Delhi NCR",Rohini,0,0,"North Indian",No,No,NULL
+"Biryani 99","Delhi NCR",Indirapuram,2.8,14,"North Indian, Biryani",Yes,No,NULL
+Kitchen22,"Delhi NCR","Defence Colony",3.6,25,"Fast Food",Yes,No,NULL
+Foodie,Kolkata,Kestopur,3.2,130,"North Indian, Chinese, South Indian",Yes,No,"Salad , Butter Chicken , Chicken Kasha"
+"Tirupati Dosa Centre",Mumbai,"7 Bungalows, Andheri West",3.8,71,"South Indian, Fast Food",No,No,"Golmaal Dosa , Pizza Dosa , Jini Dosa , Jinni Dosa , Pav Bhaji Dosa , Veg Dosa , Masala Dosa"
+"Chinese Express","Delhi NCR","Sector 19, Faridabad",3.4,89,"Chinese, Fast Food",Yes,No,"Chowmein , Manchurian , Burgers"
+"D'Brata Biryani",Kolkata,Kalyani,0,0,Biryani,Yes,No,NULL
+"Where's My Cone?",Mumbai,"Pali Hill, Bandra West",4.1,336,"Ice Cream, Desserts",Yes,No,"Brownie Chocolate , Thick Shakes , Ice Cream Sandwich , Roasted Almond Ice Cream , Filter Coffee Ice Cream , Triple Chocolate , Mint Ice Cream"
+"Kadimi Sweets","Delhi NCR",Jangpura,3.8,375,"Mithai, Street Food, North Indian",Yes,No,"Jalebi , Raita , Naan , Chole Bhature , Pakoda , Noodle , Dhokla"
+Bikanervala,"Delhi NCR","Sector 29, Gurgaon",4.2,2347,"Mithai, Street Food, South Indian, North Indian, Chinese",Yes,No,"Chaat , Chole Bhature , Raj Kachori , Thali , Lassi , Dhokla , Tandoori Platter"
+Brewtoast,"Delhi NCR","Amar Colony",4,134,Cafe,Yes,No,"Pasta , Tea , Grilled Sandwich , Burgers , Cheesy Garlic Bread , Waffles , Fries"
+"Mirwah Restaurant",Mumbai,Mahakali,4,944,"North Indian, Chinese",Yes,No,"Butter Chicken , Dumplings , Biryani , Momos , Masala Chaach , Sea Food , Caramel Custard"
+Ayde's,"Delhi NCR",Kapashera,3.1,7,"Fast Food, Beverages",No,No,NULL
+"Shera Ki Rasoi","Delhi NCR",Mahipalpur,0,0,"Chinese, North Indian",No,No,NULL
+"Cheese Central","Delhi NCR","Sector 132, Noida",3.6,60,"Italian, Fast Food, Burger, Sandwich",Yes,No,NULL
+"The Tummy Tickles","Delhi NCR","West Delhi",0,0,"Chinese, Fast Food",No,No,NULL
+"Muradabad Ki Shahi Chicken Biryani","Delhi NCR","Sheikh Sarai",3.2,8,Biryani,No,No,NULL
+"Cafe L2L","Delhi NCR","Sector 2, Noida",3.3,16,Cafe,Yes,No,NULL
+"Sweet Sins","Delhi NCR",Kalkaji,0,0,"Bakery, Desserts",No,No,NULL
+Kwality,Kolkata,"Park Street Area",3.6,722,"North Indian, Mughlai, Continental",Yes,Yes,"Pindi Chana , Panneer Butter Masala , Chicken Bharta , Dal Makhani , Naan , Prawn , Chicken Sizzler"
+"Punjabi Dhaba",Mumbai,Chakala,0,0,"Chinese, North Indian",No,No,NULL
+"Anda's Funda","Delhi NCR","Lajpat Nagar 4",3.7,37,"North Indian, Fast Food",Yes,No,"Anda Curry , Omelette"
+"Dragon Express",Mumbai,Kharghar,3.5,67,Chinese,Yes,No,"Manchow Soup , Barbeque Chicken , Triple Schezwan Rice , Crispy Chicken"
+"Essen Foods","Delhi NCR","Sector 59, Noida",0,0,"North Indian, Mughlai, Chinese",Yes,No,NULL
+"Patiala Food Factory","Delhi NCR","Sector 23, Dwarka",2.9,61,"North Indian",No,No,"Rolls , Tandoori Chicken"
+"S V Fast Food","Delhi NCR",Indirapuram,0,0,Chinese,No,No,NULL
+"Royal Inn Hotel And Restaurant",Kolkata,Kalyani,0,0,"North Indian, Chinese",Yes,No,NULL
+"Goms Pizza","Delhi NCR","Amrapali Leisure Valley",3.3,11,"Fast Food, Chinese",Yes,No,NULL
+"Atipriya's Kitchen","Delhi NCR",Azadpur,0,0,Desserts,No,No,NULL
+"Hem- The Cake Shop",Mumbai,"Kandivali West",3.3,30,"Bakery, Desserts",Yes,No,NULL
+"Waah Kachori",Kolkata,Baguihati,3.2,17,"Street Food, Fast Food",Yes,No,NULL
+"Arabitia CafÃƒÂ©","Delhi NCR","Netaji Subhash Place",3.7,113,"Cafe, Street Food",Yes,No,"Momos , Sandwich , Cappuccino , Peanut Butter Banana , Blended Coffee , Samosa , Masala Chai"
+"Bharawaan Di Rasoi","Delhi NCR","Sector 15, Faridabad",3.5,66,"North Indian, Chinese",Yes,No,NULL
+"Bahaar Restaurant","Delhi NCR","MG Road, Gurgaon",0,0,"North Indian",No,No,NULL
+"Hauz Khas Social","Delhi NCR","Hauz Khas Village",4.7,14936,"Kontinental Drink, Pizza, Biryani",No,Yes,"Cocktails , Long Island Iced Tea , Nachos , Pizza , Biryani , Momos , Burgers"
+"Time Out Cafe","Delhi NCR",Indirapuram,4,1372,"Cafe, Mexican, Pizza, Chinese",Yes,No,"Burgers , Sandwich , Noodle , Pan Fried Noodles , Veg Burger , White Sauce Pasta , Chilli Potatoes"
+"Crazy Bhukkhad","Delhi NCR","South City 2",4.3,97,"North Indian, Chinese",Yes,No,NULL
+"South Indian Corner","Delhi NCR",Rohini,3.8,205,"South Indian, Chinese, North Indian",No,No,"Mysore Masala Dosa , Rava Masala Dosa , Idli , Chowmein , Noodle , Dal Vada , Dal Makhani"
+"Chennai Food Palace","Delhi NCR",Vaishali,3.4,19,"South Indian",No,No,NULL
+"Adarsh Pure Veg",Mumbai,Vikhroli,3.6,67,"North Indian, Chinese, South Indian, Beverages",No,No,"Vegetable Biryani , Masala Dosa"
+"Melting Flavours","Delhi NCR","Sector 132, Noida",3.5,130,"North Indian, Chinese, Rolls",Yes,No,"Butter Chicken , Chicken Tikka , Chicken Rara , Tandoori Chicken , Shahi Paneer , Chaap , Halwa"
+Rosenberg,Kolkata,Ultadanga,4,641,"Chinese, North Indian, Seafood",Yes,Yes,"Barbeque Chicken , Sea Food , Momos , Sweet Corn Soup , Chicken Drumstick , Hakka Noodles , Clear Soup"
+Cherubs,"Delhi NCR","Rajinder Nagar",0,0,"North Indian, Fast Food",No,No,NULL
+"Shankar Store",Kolkata,Sodepur,0,0,"Chinese, Fast Food",No,No,NULL
+"Bake Bite","Delhi NCR",Khanpur,3.3,5,"Bakery, Fast Food",Yes,No,NULL
+"Shiv Shakti Restaurant","Delhi NCR","Mayur Vihar Phase 1",3.1,42,"South Indian, Chinese",Yes,No,NULL
+"Tawa Wok","Delhi NCR","Sector 50, Gurgaon",3.7,41,"North Indian, Chinese, Beverages, Kebab",Yes,No,"Chicken Tikka , Spring Roll , Burani Raita , Biryani , Brownie , Chicken Tenders , Dal Makhani"
+"Coney's - Pizza Cones & More",Mumbai,"Borivali West",3.9,65,"Pizza, Fast Food",Yes,No,"Pasta , Cone Pizza , Mojito"
+"Sailors' Cafe",Mumbai,CBD-Belapur,3.9,331,"Cafe, Burger, Continental, Italian",Yes,No,"Coffee , Burgers , Peri Peri Pizza , Peri Peri Fries , Mojito , Chicken Bbq Burger , Mashed Potato"
+"Spice & Tandoor","Delhi NCR","Alpha 1",0,0,"North Indian, Fast Food",No,No,NULL
+Biryaniya,"Delhi NCR","DLF Phase 4",3.4,18,"Biryani, Kebab",Yes,No,NULL
+"Mosaic Express- By Crowne Plaza","Delhi NCR",Rohini,0,0,"North Indian, Desserts",No,No,NULL
+"Knight Delight Kafe","Delhi NCR","Old Railway Road",3.6,32,"North Indian, Chinese",Yes,No,NULL
+"Ridhi Sidhi",Kolkata,"Sector 5, Salt Lake",3.4,181,"North Indian, Rajasthani",Yes,No,"Aloo Paratha , Chole , Rajma Chawal , Dal Makhani , Roti"
+"Kuldeep Food Corner","Delhi NCR","Ashok Vihar Phase 3",0,0,Chinese,No,No,NULL
+"Samla Food","Delhi NCR","Laxmi Nagar",3.4,56,"North Indian",No,No,NULL
+"FCF Chaap & Kabab's","Delhi NCR","Subhash Nagar",3.8,293,"North Indian, Chinese",Yes,No,"Panneer Butter Masala , Momos , Rolls , Chatpati Chaap , Spring Roll , Butter Chaap , Paneer Tikka"
+"Plum By Bent Chair","Delhi NCR",Aerocity,4.9,1643,Asian,No,No,"Cocktails , Sushi , Noodle , Pizza , Hot Chocolate , Mocktails , Prawn Dim Sums"
+Kittoo's,"Delhi NCR","Sector 50, Gurgaon",4.2,75,"North Indian, Mughlai",Yes,No,"Butter Chicken , Naan , Chicken Malai Tikka , Tandoori Chicken , Murgh Kalimirch , Chilli Chicken , Afghani Tikka"
+"WOW Popcorn",Mumbai,"Carter Road, Bandra West",4.1,395,"Fast Food",No,No,"Caramel Popcorn , Cocoamello Popcorn , Chocolate Popcorn , Corn Kernels , Caramel Coffee , Chips"
+"Raj Bakers And Confectioners","Delhi NCR","Tagore Garden",3.4,23,"Fast Food, Bakery",Yes,No,NULL
+"Choutala Food Junction","Delhi NCR",Trilokpuri,0,0,"North Indian",No,No,NULL
+"Ghosh Sweets",Kolkata,Kankurgachi,3.3,7,Mishti,No,No,NULL
+"Hungry Hippo",Kolkata,"Lake Town",3.4,132,"Fast Food, Beverages",Yes,No,"Maggi , Pasta , Sandwich , Vada Pav , Cheesy Garlic Bread , Signature Garlic Bread , Burgers"
+"Vimal Sweets","Delhi NCR",Nangloi,3.3,11,"Mithai, Bakery",Yes,No,NULL
+Puchkawala,Kolkata,Hatibagan,0,0,"Street Food",No,No,NULL
+"The Royal Food Junction","Delhi NCR","Ambedkar Road",0,0,"Mughlai, North Indian",No,No,NULL
+"Mojo's Food","Delhi NCR","West Patel Nagar",0,0,"Chinese, Fast Food",Yes,No,NULL
+"Tohfay Walla","Delhi NCR","Sector 72, Noida",0,0,Bakery,No,No,NULL
+"Mayur Restaurant & Bar",Mumbai,"Santacruz West",2.4,151,"South Indian, North Indian, Chinese",No,No,"Pav Bhaji , Tea , Vada , Beer , Idli Sambar , Roti , Masala Dosa"
+"Wat the Waffle","Delhi NCR","Jail Road",3.8,115,"Cafe, Desserts, Pizza",Yes,No,"Waffles , Nutella Waffle , Pasta , Brownie , Pizza"
+"Pirates of Punjab","Delhi NCR","Tilak Nagar",3.8,95,"North Indian, Fast Food, Momos",Yes,No,"Sandwich , Peri Peri Fries , Butter Chicken Momos"
+"Woodz Pizza",Mumbai,"Andheri Lokhandwala, Andheri West",4.3,54,"Pizza, Fast Food",Yes,No,"Chicken Tornado , Veggie Pizza , Cheesy Garlic Bread , Stuffed Garlic Bread , Margherita Pizza"
+"Back To Pavilion Cafe","Delhi NCR","Preet Vihar",3.6,51,"Continental, Chinese",Yes,No,NULL
+"Cherry Berry","Delhi NCR","Gujranwala Town",3.4,13,"Bakery, Desserts",No,No,NULL
+Diggin,"Delhi NCR",Chanakyapuri,4.3,2727,"Cafe, Italian, Mexican, Desserts",No,No,"Pizza , Pasta , Strawberry Mojito , Lemonade , Tiramisu , Burgers , Mocktails"
+"The Crossings Restaurant","Delhi NCR","Crossing Republik",3.6,69,"North Indian, Mughlai, Chinese",No,No,NULL
+"Eggers Madhouse","Delhi NCR","Sector 29, Gurgaon",4.1,922,"Fast Food, Healthy Food",Yes,No,"Egg Chomu , Nutella Shake , Pancakes , Bun Maskas , Egg Shawarma , Waffles , Omelette"
+"Dogs & Wiches","Delhi NCR","Chittaranjan Park",3.9,429,"Fast Food, American, Chinese",Yes,No,"Burgers , Hot Dog , Sandwich , Pasta , Waffles , Pancakes , Paneer Wrap"
+"The FitBox Co.",Mumbai,Sion,3.7,69,"Healthy Food, Salad, Sandwich",Yes,No,NULL
+"Chicken App","Delhi NCR",Inderlok,3.5,35,"North Indian",Yes,No,NULL
+"Kebabs & Curries","Delhi NCR","Malviya Nagar",0,0,"North Indian, Mughlai, Kebab, Street Food",No,No,NULL
+Al-Rim,Kolkata,"Ajoy Nagar",0,0,"North Indian, Mughlai",No,No,NULL
+"Piyali Restaurant",Kolkata,"Dum Dum",2.6,129,"North Indian, Bengali, Chinese, Seafood",Yes,No,NULL
+Rasoi,"Delhi NCR",Mahipalpur,0,0,"North Indian, Chinese",No,No,NULL
+"Mr. King","Delhi NCR","Govind Puram",2.8,76,"North Indian, Chinese, Mughlai, Momos",Yes,No,"Tandoori Momos"
+"Online Cake Palace","Delhi NCR","East Delhi",0,0,"Desserts, Bakery",Yes,No,NULL
+"Thali King- Make My Thali","Delhi NCR","Sector 20, Dwarka",3.2,198,"North Indian",Yes,No,"Paratha , Chur Chur Naan , Raita , Veg Thali"
+"Rajubhai Bhurji Wala",Mumbai,"Borivali West",3.8,90,"Street Food",No,No,"Egg Dosa , Omelette , Cheese Bhurji , Bhurji Pav"
+"Indian Halal Meat Shop","Delhi NCR","Kamla Nagar",3.3,16,"Raw Meats, North Indian",No,No,NULL
+"New Madras Cafe","Delhi NCR",Shahdara,3.4,39,"South Indian, Chinese",Yes,No,NULL
+"Momos Republic",Mumbai,"Majiwada, Thane West",3.5,43,"Chinese, Momos",Yes,No,NULL
+"Baleshwar Rasoi","Delhi NCR","Ashok Vihar Phase 1",3,5,"North Indian",No,No,NULL
+"Wafflista Cafe","Delhi NCR","Laxmi Nagar",3.4,15,"Fast Food, Street Food, Beverages, Desserts",No,No,NULL
+Rajasthali,Kolkata,Tollygunge,3.3,24,Rajasthani,No,No,NULL
+"Shree Sai Kulcha Hut",Mumbai,Kalyan,3.7,80,"North Indian",Yes,No,"Lassi , Soya Chaap , Naan , Paneer Kulcha , Rolls , Chole Kulche"
+"New Sethi's Restaurant","Delhi NCR","Nehru Nagar",3.3,13,"Chinese, North Indian",Yes,No,NULL
+"Diet Brite","Delhi NCR",Shahdara,3.5,39,"Fast Food, North Indian",Yes,No,NULL
+"Cafe Meals","Delhi NCR",Naraina,3.6,52,"Continental, Fast Food",Yes,No,NULL
+"Wrap & Roll","Delhi NCR","Karol Bagh",3.8,290,"Rolls, Chinese, Fast Food",Yes,No,"Rolls , Chicken Roll , Paneer Roll , Tandoori Momos , Egg Roll , Noodle , Manchurian Roll"
+"Lalaji Food Plaza",Kolkata,Liluah,3.3,154,"North Indian, South Indian, Fast Food",Yes,No,NULL
+"Om Sweets & Snacks","Delhi NCR","Sector 31, Gurgaon",4.1,2062,"North Indian, Mithai, Fast Food, South Indian, Chinese",Yes,No,"Raj Kachori , Chaat , Chole Bhature , Thali , Chana Bhatura , Rasmalai , Pav Bhaji"
+"Hakka Treat","Delhi NCR","Laxmi Nagar",3.2,12,"Chinese, Fast Food",No,No,NULL
+"M M Fast Food Center",Kolkata,Jadavpur,4,166,"Chinese, Fast Food",Yes,No,"Noodle , Rolls , Pan Fried Momos , Chicken Mayo Roll , Fish , Hakka Noodles , Chips"
+"Desi Chulha","Delhi NCR","Badarpur Border",0,0,"North Indian",No,No,NULL
+"Cheers Resto Bar","Delhi NCR","Prashant Vihar",3.6,36,"North Indian",Yes,No,"Bhatti Chicken , Chicken Lollipop , Dahi Ke Shole"
+"Good Food Xpress & Bakery","Delhi NCR",Pitampura,3,4,Bakery,No,No,NULL
+"Delicious Treasure","Delhi NCR","Sector 52, Noida",0,0,"North Indian",No,No,NULL
+"Thali Junction",Kolkata,"New Town",3.2,66,"North Indian, South Indian, North Eastern",Yes,No,NULL
+"Special Muradabadi Chicken Biryani","Delhi NCR",Jasola,0,0,"Biryani, North Indian",Yes,No,NULL
+"Kitchen Lab","Delhi NCR",Vasundhara,3.1,4,"North Indian, Chinese",No,No,NULL
+"Rani's Bakery",Mumbai,"Malad West",3.6,51,Bakery,No,No,"Burgers , Chicken Burger , Chicken Mayo Roll , Rolls"
+"The Kitchen Exotica","Delhi NCR",Jasola,3.3,42,"North Indian, Chinese",Yes,No,NULL
+"Choco Smith Gourmet Bakery","Delhi NCR","Sheikh Sarai",2.9,16,"Bakery, Fast Food",Yes,No,NULL
+"CafÃƒÂ© Bogchi","Delhi NCR","Sector 15, Faridabad",4.1,531,"Cafe, Continental, Beverages",Yes,Yes,"Pizza , Pasta , Salad , Bagel , Waffles , Detox Water , Burgers"
+"Song Dong Momos & Kathi Roll","Delhi NCR","Sector 31, Faridabad",0,0,"Momos, Rolls",No,No,NULL
+"Vardaan Food Corner","Delhi NCR","DLF Phase 3",3.3,11,"South Indian, Street Food",Yes,No,NULL
+"Chaska Point","Delhi NCR",Shakarpur,0,0,"Awadhi, Hyderabadi, Biryani, North Indian, Lucknowi, Mughlai",Yes,No,NULL
+"CHD Chache Di Hatti","Delhi NCR","Vasant Vihar",0,0,"Chinese, Fast Food, North Indian",No,No,NULL
+"Fabelle Chocolate Boutique - ITC Maurya","Delhi NCR",Chanakyapuri,4.3,106,"Desserts, Ice Cream",No,No,"Hot Chocolate , Cupcake , Madagascar Vanilla , Coffee , Caramel Ganache , Mousse"
+"The Subtle Baker",Kolkata,"Dobson Road",3.4,41,"Bakery, Desserts",No,No,NULL
+"Frozen Fantasy","Delhi NCR",Safdarjung,3.7,47,"Bakery, Desserts",Yes,No,"Chocolate Mousse , Chocolate Truffle Cake"
+Thooso,Mumbai,"Andheri Lokhandwala, Andheri West",4.4,414,"Biryani, Rolls",Yes,No,"Butter Chicken , Biryani , Rolls , Chicken Roll , Dal Tadka , Tikka , Gulab Jamun"
+"Snickerdoodle-Virgin Bar & Cafe",Mumbai,Ambernath,3.8,132,"Cafe, Beverages",Yes,No,"Fries , Nachos , Sandwich , Hot Chocolate , Fried Cheese , Brownie"
+Rollick,Kolkata,"Park Street Area",4.2,388,"Ice Cream, Desserts",Yes,No,"Brownie , Hot Chocolate Fudge , Ice Cream Sandwich , Chocolate Overload , Ice Cream Sundae , Vanilla Ice Cream , Ferrero Rocher Sundae"
+"Naturals Ice Cream","Delhi NCR","Connaught Place",4.5,4042,Zmrzlina,No,No,"Coffee Walnut , Mango Ice Cream , Kesar Pista , Choco Almond , Waffle Cone , Kala Jamun , Anjeer Ice Cream"
+"Ghar Jaisa Khana","Delhi NCR",Shahdara,3,4,"North Indian",Yes,No,NULL
+"Raja Sweets",Kolkata,Kalyani,0,0,Mishti,Yes,No,NULL
+Bake-Days,"Delhi NCR",Janakpuri,2.9,6,"Chinese, Fast Food",No,No,NULL
+"Kerala Cafe","Delhi NCR","Mayur Vihar Phase 1",3.7,125,Kerala,Yes,No,"Fish Curry , Chicken Biryani , Chicken 65 , Roast Chicken , Chicken Curry , Roasted Duck , Masala Prawn"
+"Dana Pani Foods","Delhi NCR","Sector 65, Noida",3,9,"North Indian",Yes,No,NULL
+"Dil Chinese Fast Food","Delhi NCR","MG Road, Delhi",0,0,Chinese,No,No,NULL
+"Richie's Cafe","Delhi NCR","Sector 31, Faridabad",0,0,"Fast Food",No,No,NULL
+"Sunil Bakery","Delhi NCR","Vasant Vihar",0,0,"Bakery, Fast Food",No,No,NULL
+"Techies Time to Tea","Delhi NCR","Sector 41, Noida",3.6,160,"Fast Food, Beverages",Yes,No,"Sandwiches , Burgers , Jasmine Tea , Wheat Momo , Masala Chai , Tulsi Tea , White Sauce Pasta"
+"Chop Shop Chicken Shop","Delhi NCR",NIT,3.5,19,"North Indian",No,No,NULL
+"Shreya Restaurant & Bar",Mumbai,"Wagle Estate, Thane West",3.2,15,"North Indian, Chinese",No,No,NULL
+"S P Food Corner","Delhi NCR","Karol Bagh",2.9,6,"North Indian",Yes,No,NULL
+"Asad's Cafe",Mumbai,"Mira Road",4,575,"Biryani, Chinese, North Indian",Yes,No,"Roti , Dal Fry , Paneer Tikka Biryani , Tandoori Chicken , Vegetable Biryani , Hara Bhara Kabab , Hakka Noodles"
+"Zaika Muradabadi Chicken Restaurant","Delhi NCR","Lajpat Nagar 2",3.7,79,"Mughlai, Biryani",Yes,No,NULL
+"Big Boss Chikan Corner","Delhi NCR","Sector 23, Faridabad",3.1,6,"North Indian",No,No,NULL
+"Burger Box","Delhi NCR","Sarita Vihar",2.8,159,"Burger, Fast Food",Yes,No,"Burgers , Pasta , Oreo Shake , Double Decker Chicken Burger , Margherita Pizza , Aloo Tikki Burger"
+"The Ramkrishna Sweets",Kolkata,"Dum Dum",0,0,Mishti,No,No,NULL
+"Bedouin - Sher e Bengal",Kolkata,Gariahat,3.8,1000,"Chinese, North Indian, Bengali, Mughlai",Yes,No,"Biryani , Rolls , Murgh Lababdar , Thali , Tandoori Chicken , Noodle , Mocktails"
+"The Big Chill Cafe","Delhi NCR","Ardee City",0,0,Cafe,No,No,"Pizza , Cheesecake , Chocolate Tiramisu , Salad , White Sauce Pasta , Spaghetti , Fish"
+"Saini Foods","Delhi NCR","Sector 15, Gurgaon",3.1,18,"North Indian",No,No,"Malai Kofta , Punjabi Dal Tadka , Pindi Chana , Dum Aloo"
+Aavakay,Mumbai,"Kandivali East",4.1,597,"Andhra, South Indian",Yes,Yes,"Malabari Paratha , Chicken 65 , Chicken Biryani , Chicken Curry , Gongura Pickle , Hyderabadi Biryani , Sea Food"
+"Apni Rasoi","Delhi NCR",Najafgarh,0,0,"Mughlai, North Indian",No,No,NULL
+"Calcutta Chiit Chaat",Kolkata,"Sector 4, Salt Lake",3.1,77,"Chinese, Rolls, Biryani, North Indian",Yes,No,NULL
+"Madan Sweets & Bakers","Delhi NCR","Subhash Nagar",3.3,26,Mithai,No,No,NULL
+"Choudhary  Food Station","Delhi NCR","Kavi Nagar",0,0,"North Indian",No,No,NULL
+"King Of Food","Delhi NCR",Vaishali,3.3,12,"Chinese, North Indian, Mughlai, Rolls",No,No,NULL
+"Awadhi Biryani","Delhi NCR",Rohini,0,0,"Biryani, Beverages",No,No,NULL
+"Guddu Ji Malai Chaap Wale","Delhi NCR","Shastri Nagar",3.3,10,"North Indian",No,No,NULL
+"La Taj","Delhi NCR","Sector 37, Faridabad",3.1,35,"North Indian, Chinese, Fast Food",Yes,No,NULL
+"Tulsa Hotel",Mumbai,Kalyan,2.9,10,"Fast Food",No,No,NULL
+"BurgerFi Cafe","Delhi NCR","Sector 62, Noida",3,7,"Fast Food, Burger, Sandwich, Beverages",Yes,No,NULL
+"Grillz Fries & More","Delhi NCR","Subhash Nagar",3.5,137,"Fast Food, Mughlai, North Indian",Yes,No,"Burgers , Pasta , Veg Burger , Spring Roll , Vanilla Ice Cream , Shawarma , Dal Makhani"
+Hometaste,"Delhi NCR","Sector 56, Gurgaon",3.4,47,"North Indian",Yes,No,Paratha
+"Amor Churros",Mumbai,"Panch Pakhadi, Thane West",4.3,388,"Desserts, Beverages",Yes,No,"Churros , Hot Chocolate , Waffles , Thick Shakes , Pizza , Banoffee Shake , Oreo Shake"
+"The Zaika King","Delhi NCR","Sector 12, Noida",3.8,158,"North Indian, Mughlai, Momos",Yes,No,"Momos , Chicken Shawarama , Chaap , Dal Makhani , Butter Naan , Shawarma"
+"Only For Foodies",Kolkata,Serampore,0,0,"North Indian, Chinese, Fast Food, Rolls",No,No,NULL
+Cumin,Kolkata,Baguihati,3,5,"Chinese, Continental",No,No,NULL
+"West India Co. Bar & Kitchen",Mumbai,"Hiranandani Estate, Thane West",4,204,"Continental, North Indian, Mexican, Finger Food, Thai",No,Yes,"Cocktails , Craft Beer , Salad , Cheesy Garlic Bread , Oreo Cheesecake , Pasta , Cheese Poutine"
+"Flavours of London","Delhi NCR","Sector 19, Dwarka",0,0,"Ice Cream, Fast Food",No,No,NULL
+"Shri Murli Wala","Delhi NCR","Uttam Nagar",3.5,72,"North Indian, South Indian, Chinese",Yes,No,NULL
+"Dragonfly Experience","Delhi NCR",Aerocity,4.9,399,"Finger Food, European, Asian",No,No,"Cocktails , Sushi , Salad , Hot Chocolate , Dumplings , Mocktails , Cheesecake"
+"The Foodiez",Kolkata,Kidderpore,3.8,180,"Fast Food",Yes,No,"Popcorn , Chicken Burger , Thick Shakes , French Fries"
+"Arhaan Chicken Corner","Delhi NCR",Chhatarpur,0,0,"Mughlai, North Indian",No,No,NULL
+"The Mad Teapot/The Wishing Chair","Delhi NCR","Shahpur Jat",4.1,327,"Cafe, Bakery, Italian",No,No,"Sandwich , Pasta , Salad , Tea , Cupcake , Hot Chocolate , Spaghetti"
+"Bakers Reflection","Delhi NCR","Sector 135, Noida",3.6,22,"Bakery, Desserts",No,No,NULL
+"Jai Jagannath Payal Dhaba","Delhi NCR",Mahipalpur,0,0,"Chinese, North Indian, South Indian",No,No,NULL
+"Binge Bakery And More","Delhi NCR","Sector 50, Gurgaon",0,0,"Bakery, Desserts",No,No,NULL
+"Food Express","Delhi NCR","Uttam Nagar",0,0,"Chinese, North Indian",Yes,No,NULL
+"Punjabi Rasoi","Delhi NCR","Uttam Nagar",0,0,"North Indian, South Indian",No,No,NULL
+"Mumma's Kitchen",Mumbai,"Borivali West",3.3,16,"Goan, Maharashtrian",No,No,NULL
+"Balli Machi Wala","Delhi NCR","Ashok Vihar Phase 1",2.8,15,"North Indian",Yes,No,NULL
+"Baweja's Pizza Xpress","Delhi NCR",NIT,2.8,56,"Pizza, Fast Food",Yes,No,NULL
+"Shahi Dahi Bhalle","Delhi NCR","Jail Road",3.7,38,"Street Food",Yes,No,NULL
+"Aunty Momo","Delhi NCR","Amar Colony",3.6,164,"Chinese, Momos",Yes,No,"Spring Roll , Veg Momos , French Fries , Chicken Fried Momos , Paneer Momos , Steamed Chicken Momo"
+CLA,Mumbai,Wadala,4,58,"North Indian, Seafood",Yes,No,"Chocolate Mousse , Rabri , Patra Kebab , Mango Blossom"
+"Republic Of Chicken",Kolkata,"New Town",3,5,"Raw Meats, Biryani, Wraps, Fast Food, Mughlai",No,No,NULL
+"Girdharilal Sweets & Namkeen","Delhi NCR","Sector 65, Noida",0,0,"Mithai, Street Food",No,No,NULL
+Nueva,"Delhi NCR","R K Puram",4.2,925,"European, American, Asian",No,Yes,"Sushi , Cocktails , Pizza , Dumplings , Coffee , Pasta , Salad"
+"Maa Tara Food Zone",Kolkata,Baguihati,3,9,"Chinese, North Indian, Biryani",No,No,NULL
+Khalifa,"Delhi NCR",Satyaniketan,3.2,12,"North Indian",No,No,NULL
+"Dolphin Restaurant",Kolkata,Barasat,2.8,115,"North Indian, Biryani",Yes,No,"Noodle , Fried Rice , Fish"
+"Food Plaza","Delhi NCR","Shastri Nagar",2.9,11,"North Indian",No,No,NULL
+Firdous,"Delhi NCR","Greater Kailash 2 (GK2)",0,0,"Fast Food",No,No,NULL
+"Ayyappan's - The South Indian Bistro",Mumbai,Kharghar,0,0,"South Indian, North Indian, Chinese",Yes,No,NULL
+"The Aroma of Bengal","Delhi NCR","Sector 83, Gurgaon (Gurugram)",3.1,12,Bengali,Yes,No,NULL
+"Sam's Bakery","Delhi NCR","Sector 19, Faridabad",0,0,Bakery,No,No,NULL
+"FFC Restaurant","Delhi NCR","Asaf Ali Road",3.5,29,"Fast Food",No,No,NULL
+"Curry Pot","Delhi NCR","Raj Nagar",3.4,117,"Chinese, Continental, Italian, Mughlai, North Indian",Yes,No,"Peri Peri Fries , Paneer Lababdar"
+Chickenation,"Delhi NCR",Rohini,0,0,"North Indian, Chinese",No,No,NULL
+"Bistro N Beans","Delhi NCR","Vasundhara Enclave",2.8,22,"Fast Food",Yes,No,NULL
+Shradda,Mumbai,Kalwa,3.7,115,"Chinese, North Indian",No,No,"Dum Biryani"
+"Picket Lane","Delhi NCR","Sohna Road",3.7,51,"Cafe, Italian, Desserts",Yes,No,"Cappuccino , Verdure Pizza"
+"Sunny Kebab Wala","Delhi NCR","Subhash Nagar",3.6,48,"North Indian, Fast Food",Yes,No,NULL
+"Refresh Katta",Mumbai,"Dombivali East",3.5,64,"Fast Food, Italian, Pizza, Chinese, Street Food",Yes,No,"Cheesy Garlic Bread"
+"Burmese Bahar",Kolkata,Barasat,3.3,10,Burmese,No,No,NULL
+"Chinese Garage","Delhi NCR","East of Kailash",4.1,840,"Chinese, Momos",Yes,No,"Noodle , Spring Roll , Manchurian , Honey Chilli Potatoes , Chilli Paneer , Momos , Hakka Noodles"
+"Sardar Kachori","Delhi NCR",Inderlok,3,4,"Street Food",No,No,NULL
+"Hungryy Birdz",Kolkata,"Thakur Pukur",3.6,255,"Chinese, North Indian",Yes,No,"Noodle , Chicken Roll , Chowmein"
+"Patiala Shahi Chicken & Fish Fry","Delhi NCR","Paschim Vihar",0,0,"North Indian",No,No,NULL
+"Cake Paradise",Kolkata,Baguihati,0,0,Bakery,No,No,NULL
+"Smart Cafe","Delhi NCR","Sector 125, Noida",0,0,"Cafe, Fast Food",No,No,NULL
+"Burger King","Delhi NCR",Saket,4,3198,"Burger, Fast Food, Beverages",Yes,No,"Burgers , Fries , Mutton Whopper , Salad , Chicken Whopper , Chilli Cheese Melt , Onion Rings"
+"The Great Bowl Of China","Delhi NCR",Noida,3,5,Chinese,Yes,No,NULL
+Tulsi,Mumbai,"Kandivali West",2.5,604,"Chinese, Italian, Fast Food",Yes,No,"Pasta , Nachos , Pizza , Noodle , Fries , Spaghetti , Hakka Noodles"
+"Anjana Cafe","Delhi NCR","MG Road, Gurgaon",3.1,4,Cafe,No,No,NULL
+"Delivery Panda","Delhi NCR","Vijay Nagar",0,0,"North Indian, Chinese, Continental",No,No,NULL
+"Munna Di Vaishno Rasoi","Delhi NCR",Rohini,0,0,"North Indian",No,No,NULL
+"Roll X","Delhi NCR",Kalkaji,3.8,50,Rolls,Yes,No,"Rolls , Lemonade , Fries , Chicken Egg Roll"
+Sindhudurg,Mumbai,"Wagle Estate, Thane West",3.6,165,"Malwani, Seafood",No,No,"Sea Food , Malwani Food , Surmai Fry , Chicken Sukha , Fish Fry , Bombil Fry , Sol Kadhi"
+"Lucky's Bakery and Patisserie","Delhi NCR","Punjabi Bagh",4,149,"Bakery, Desserts",No,No,"Walnut Cake , Date Cake , Brownie Chocolate , Red Velvet Jar , Ferrero Rocher Cake , Brownie Cheesecake , Marble Cake"
+Dosae,"Delhi NCR",Kalkaji,3.4,19,"South Indian",Yes,No,NULL
+"Pizzeria Cafe","Delhi NCR",Indirapuram,3.5,102,"Chinese, Continental",Yes,No,"Pizza , Burgers , Fried Rice , Chicken Sandwich , Chilli Chicken , Chocolava Cake"
+"Chawla Chick Inn","Delhi NCR",Manesar,2.9,5,"Mughlai, North Indian, Chinese",No,No,NULL
+"Cake Point","Delhi NCR",Janakpuri,3.3,8,"Bakery, Desserts",Yes,No,"Chocolate Mud Cake , Blackforest Cake , Chocolate Truffle Cake , Pineapple Cake"
+"Pizza Boys",Mumbai,"Malad West",3.6,146,"Italian, Pizza",Yes,No,"Cottage Cheese Burger , Cheesy Garlic Bread , Peri Peri Fries , White Sauce Pasta , Hawaian Pizza , Chiku Shake , Butter Chicken Pizza"
+"Ajooba Biryani Junction",Kolkata,Garia,3.2,13,"North Indian",No,No,NULL
+"Snack Shack",Kolkata,"Narendra Pur",3.7,76,"Fast Food, Street Food",Yes,No,"Pav Bhaji , Sandwich , Momos , Chaat"
+"Prem Rasoi","Delhi NCR","Dilshad Garden",0,0,"North Indian",No,No,NULL
+"Coastal Reef","Delhi NCR","DLF Phase 4",4,302,"Kerala, Andhra, Seafood, South Indian",Yes,Yes,"Appam , Chicken Chettinad , Fish , Sea Food , Murgh Ghee Roast , Biryani , Chicken 65"
+"Saravana Mess","Delhi NCR","Karol Bagh",3.3,9,"South Indian, North Indian",No,No,NULL
+"A1 Food Service","Delhi NCR","Sector 15, Dwarka",3.1,4,"North Indian, Chinese",No,No,NULL
+McDonald's,"Delhi NCR","Sector 18, Noida",4.1,894,"Burger, Fast Food",Yes,No,"Burgers , Fries , Spicy Chicken , Aloo Tikki Burger , Mc Chicken , Maharaja Mac , Paneer Wrap"
+"Rajubhai Dhoklawala",Mumbai,"Kandivali West",4,188,"Street Food, Desserts",No,No,"Farsan , Fafda , Dhokla Pizza , Jalebi , Dabeli Dhokla , Samosa"
+"Duggal's Rasoi","Delhi NCR","Defence Colony",3.7,102,"North Indian, Mughlai",Yes,No,"Dal Makhani , Chicken Tikka , Tandoori Chicken , Rolls , Shawarma"
+"Sugar & Spice","Delhi NCR","Vasant Vihar",0,0,"Bakery, Fast Food",No,No,NULL
+Delish,"Delhi NCR","Moti Nagar",0,0,"Chinese, Fast Food",No,No,NULL
+"Cherry Bar - The Leela Ambience Convention Hotel","Delhi NCR","Vivek Vihar, Delhi",3.8,110,"Finger Food",No,No,"Cocktails , Tikka"
+"Sindhi Meat & Chicken","Delhi NCR","Sector 22, Dwarka",0,0,"North Indian",No,No,NULL
+"Urban Cuisine","Delhi NCR","Sector 86, Faridabad",3.5,140,"North Indian, Chinese, Mughlai",Yes,No,"Butter Chicken , Paneer Angara , Dal Makhani"
+"Jhama Silver Sweets",Mumbai,"Kopar Khairane",3.7,46,"Mithai, Street Food",No,No,"Panipuri , Chaat , Sev Puri"
+"Khana Khazana","Delhi NCR","Old Railway Road",0,0,"North Indian",Yes,No,NULL
+Southy,"Delhi NCR","DLF Phase 4",3.9,76,"South Indian",Yes,No,"Rava Masala Dosa , Vada Sambar , Lemon Rice , Idli , Upma"
+"TLC Kitchen","Delhi NCR","Sector 19, Dwarka",3.5,47,"North Indian, Chinese",Yes,No,NULL
+Lucknow,Kolkata,"Dum Dum",2.6,81,"North Indian, Fast Food",No,No,"Chicken Biryani , Paratha"
+Nimtho,"Delhi NCR","Greater Kailash 1 (GK1)",4.1,357,"Nepalese, Chinese, Asian",Yes,Yes,"Momos , Pork Ribs , Thali , Thukpa , Pork Momo , Chilli Momo , Chicken Curry"
+"The Cone Factory",Mumbai,Fort,4.2,100,Italian,Yes,No,"Cone Pizza , Paneer Tikka , Peri Peri Chicken , Paneer Peri Peri , Smoked Chicken , Chicken Tikka , Chipotle Chicken"
+"The Artistic Desserts",Kolkata,Baguihati,3.4,17,"Bakery, Desserts",No,No,NULL
+Cocoaaahhh,"Delhi NCR","Greater Kailash 1 (GK1)",0,0,Desserts,No,No,NULL
+"The Ahare Bahare Kitchen",Kolkata,Behala,3.5,318,Bengali,Yes,No,"Fish Pakoda"
+"Chawla Express","Delhi NCR","Mukherjee Nagar",3.1,4,"North Indian, Mughlai, Chinese, Fast Food",Yes,No,NULL
+"Raju Grill","Delhi NCR","Sector 11, Faridabad",0,0,"Fast Food",No,No,NULL
+"Dear Donna","Delhi NCR","Qutab Institutional Area",3.4,333,"Finger Food, American",No,No,"Cocktails , Pizza , Sushi , White Sauce Pasta"
+"Greasy Spoon Cafe","Delhi NCR","Sector 81, Faridabad",0,0,"Fast Food, Chinese",No,No,NULL
+"Yo Munching","Delhi NCR","Sector 7, Gurgaon",3.3,73,Chinese,No,No,NULL
+"Amritsari Express","Delhi NCR","Sector 53, Gurgaon",0,0,"North Indian",No,No,NULL
+"Chutney D'Lite","Delhi NCR",Saket,3.3,79,"North Indian",Yes,No,"Dal Makhani , Naan , Butter Chicken , Malai Kofta , Dal Tadka , Chicken Tikka Masala , Tandoori Chicken"
+"Nanuji- By Nanumal Bhojraj",Mumbai,Kharghar,0,0,"North Indian, Chinese, Continental",Yes,Yes,NULL
+"Yam Food Point","Delhi NCR","Sector 14, Gurgaon",3,4,"South Indian, North Indian",Yes,No,NULL
+"The Burger Week","Delhi NCR","Mayapuri Phase 1",2.9,6,"Burger, Beverages",No,No,NULL
+Shahenshah,"Delhi NCR","Sector 51, Noida",3.7,164,"North Indian, Mughlai, Chinese",Yes,No,"Chicken Biryani , Dal Makhani , Murgh Lababdar , Chicken Rara , Malai Kofta , Butter Chicken , Naan"
+"Orange And Chilli Biryani",Mumbai,Chembur,3.3,14,"North Indian, Chinese, Biryani",No,No,NULL
+"Dear Chocolate","Delhi NCR","Lajpat Nagar 2",3.3,14,Desserts,Yes,No,NULL
+"Wakhra Swag By Mafia Kitchen","Delhi NCR","Sector 27, Noida",3.7,105,"North Indian, Mughlai",Yes,No,"Chicken Curry , Butter Chicken"
+"Ghare Baire",Kolkata,Hazra,3.7,63,"Bengali, Bangladeshi",No,No,"Mutton Kasha , Mutton Dak Bunglow , Veg Thali , Chital Muitha , Luchi"
+"TIME PASS",Kolkata,Khardah,3,6,"Fast Food, Street Food",No,No,NULL
+"Night Out cafe","Delhi NCR","Shalimar Bagh",3.2,7,"North Indian, Continental, Chinese, Italian",Yes,No,NULL
+"Damru Paan Shop",Mumbai,"Borivali West",3.8,53,Paan,Yes,No,"Paan Shot , Meetha Paan , White Chocolate Paan , Ladoo"
+"Gujrati Basa",Kolkata,"Bara Bazar",3.5,48,Gujarati,Yes,No,NULL
+"Punjabi Rasoi","Delhi NCR","DLF Phase 3",3.6,160,"North Indian",Yes,No,"Dal Makhani , Paratha , Kadhai Paneer"
+"Om Bakers","Delhi NCR",Azadpur,0,0,"Bakery, South Indian, Street Food, Mithai",No,No,NULL
+"Cafe Youth","Delhi NCR","Vasundhara Enclave",3.2,5,Chinese,No,No,NULL
+"Hotel White Castle","Delhi NCR","Sector 93, Noida",0,0,"North Indian, Chinese",No,No,NULL
+"Modi Bakery","Delhi NCR",Jangpura,0,0,Bakery,No,No,NULL
+"Manjeet Chicken Centre","Delhi NCR","Mukherjee Nagar",3.7,100,"North Indian",No,No,"Butter Chicken , Tawa Chicken"
+"New Airport Restaurant",Mumbai,Marol,3.9,381,"North Indian, Mughlai",No,No,"Caramel Custard , Tandoori Chicken , Butter Chicken , Tandoori Roti , Pudding , Mutton Biryani , Murgh Angara"
+"Cafe Rendezvous","Delhi NCR","Malviya Nagar",3.7,296,"Asian, North Indian, Continental, Momos",Yes,Yes,"Pasta , Butter Chicken , Naan , Dal Makhani , Margherita Pizza , Mutton Roganjosh , Malai Kofta"
+"The Burger Homes","Delhi NCR","Sector 31, Gurgaon",3.3,14,"Burger, Fast Food",Yes,No,NULL
+"My Bar Headquarters","Delhi NCR","Connaught Place",4,5772,"North Indian, Mughlai, Chinese",No,No,"Pizza , Beer , Cocktails , White Sauce Pasta , Chocolate Truffle , Mocktails , Honey Chilli Potatoes"
+"Karan Momos Corner",Mumbai,Ulhasnagar,3.2,7,Momos,No,No,NULL
+"Juice Bar","Delhi NCR",Rohini,0,0,"Juices, Beverages",No,No,NULL
+"Oye Hotdogs","Delhi NCR",Kalkaji,3.6,54,"Fast Food",Yes,No,"White Sauce Pasta"
+"Tasty Place","Delhi NCR","Uttam Nagar",0,0,"North Indian, Chinese",No,No,NULL
+Zoe,"Delhi NCR","Sector 23, Gurgaon",4.3,242,"Juices, Beverages, Healthy Food",Yes,No,"Salad , Mocha Frappe , Chicken Sandwich , Tea , Yoghurt Parfait , Cinnamon Frappe , Detox Water"
+"Heart Bites",Kolkata,Baghajatin,0,0,"Fast Food",Yes,No,NULL
+"Candle Heart Restaurant","Delhi NCR","Pratap Vihar",3.4,20,"North Indian, Chinese, Continental, Beverages",Yes,No,NULL
+"Teens Cafe Fast Food","Delhi NCR","Preet Vihar",0,0,Chinese,No,No,NULL
+"O Zone Restaurant & Bar",Kolkata,Baguihati,2.8,37,"North Indian, Chinese",No,No,NULL
+"Sesame Street Wok Dis Way","Delhi NCR","Shastri Nagar",0,0,"Chinese, Fast Food",No,No,NULL
+"Tingly Vingly",Mumbai,"Lower Parel",3.6,32,"Chinese, Fast Food, Beverages",Yes,No,NULL
+"The Royal Spice",Kolkata,Sodepur,3.4,133,"North Indian, Chinese, Continental, Italian",Yes,Yes,"Mocktails , Hakka Noodles"
+"Park Balluchi","Delhi NCR","Sector 72, Noida",4,505,"Mughlai, North Indian, Chinese",Yes,No,"Dal Makhani , Butter Chicken , Paneer Lababdar , Malai Kofta , Murgh Makhanwala , Pizza , Biryani"
+"Vaishu's Noodles","Delhi NCR","Sector 57, Gurgaon",0,0,Chinese,No,No,NULL
+"Jai Mata Di Fast Food Corner","Delhi NCR","Chander Nagar, Delhi",0,0,"North Indian, Chinese, Fast Food",No,No,NULL
+"Omelettes A Multi Cuisine Restaurant","Delhi NCR","Rajendra Place",3.6,301,"Fast Food, North Indian, Chinese",Yes,No,"Butter Chicken , Biryani , Sandwich , Chicken Tikka , Omelette , Pizza , Chicken Chowmein"
+"Pahalwan Da Dhaba","Delhi NCR","Old Railway Road",3.3,16,"North Indian",No,No,NULL
+"Shree Bikaner Sweets","Delhi NCR","New Friends Colony",0,0,"Fast Food, Mithai",No,No,NULL
+Lakeside,Mumbai,Nalasopara,3.7,324,"North Indian, Chinese, Seafood, Mughlai",No,No,"Chicken Tikka Biryani , Butter Chicken"
+Haldiram's,"Delhi NCR","Connaught Place",4.1,2076,"Mithai, North Indian, Street Food, Chinese, South Indian",No,No,"Raj Kachori , Pav Bhaji , Chole Bhature , Thali , Chaat , Rasmalai , Lassi"
+"Noorani Restaurant",Mumbai,Mumbra,3.6,79,"North Indian, Chinese, Mughlai, Fast Food",No,No,NULL
+"Prince Misthaan cafe","Delhi NCR",Khanpur,3.5,35,"North Indian, Chinese, South Indian",Yes,No,NULL
+"A K Foods","Delhi NCR","Crossing Republik",3.3,11,"North Indian, Fast Food",No,No,NULL
+"The Tasty Bakers & Confectioners","Delhi NCR","Sector 72, Noida",3.8,107,"Bakery, Fast Food",Yes,No,Cupcake
+"Classic Snacks",Kolkata,Baguihati,2.7,31,"Street Food, North Indian",No,No,NULL
+"Tobasco Kitchen","Delhi NCR","DLF Phase 3",3.6,91,"Fast Food, Pizza",Yes,No,"Chicken Fries , Pasta , Chicken Pizza"
+"Blossom Food Plaza",Kolkata,Liluah,3,144,"North Indian, Chinese",No,No,"Chicken Butter Masala"
+"The Courtyard Cafe","Delhi NCR","Sector 125, Noida",4,227,"Chinese, Continental, North Indian",Yes,No,"Pasta , Pizza , Momos , Hakka Noodles , Coffee Hazelnut , Sandwich , Chilli Mushroom"
+"Green Pepper",Kolkata,Belur,3.6,74,"Chinese, North Indian",Yes,No,NULL
+"Urban Tandoor","Delhi NCR","Sector 31, Gurgaon",4.2,229,"North Indian",Yes,No,"Paneer Tikka , Biryani , Soya Chaap Tikka , Paratha , Roti , Thali , Salad"
+"Chobdar Express","Delhi NCR","Sector 7, Dwarka",0,0,"North Indian, Fast Food",No,No,NULL
+"AanyaÃ¢â‚¬â„¢s Amritsari Nutri Kulcha","Delhi NCR","Sector 56, Gurgaon",3.5,15,"North Indian",No,No,NULL
+"Standard Ice Cream","Delhi NCR","Shalimar Bagh",4,112,"Desserts, Ice Cream",No,No,"Kulfi Faluda , Faluda Ice Cream , Badam Milk"
+Foodiejuana,"Delhi NCR","Tughlakabad Institutional Area",0,0,"North Indian",No,No,NULL
+"Creamy Nuts",Mumbai,Nerul,3.3,12,"Fast Food, Beverages",Yes,No,NULL
+"Late Lateefe","Delhi NCR","Preet Vihar",3.5,118,"North Indian, Mughlai, Chinese",No,No,"Dal Makhani , Malai Chaap , Butter Chicken , Paneer Lababdar , Paneer Tikka , Maggi , Roti"
+"Ishan Fast Food","Delhi NCR",Rohini,0,0,Momos,No,No,NULL
+"Baby Got Bacon","Delhi NCR","Sector 51, Noida",3,8,"American, Italian",No,No,"Cheese Bacon Fries , Peri Peri Pepperoni Pizza , Hot Dog & Bbq Bacon"
+Paratha's,Mumbai,Powai,3.5,186,"North Indian",Yes,No,"Dal Makhani , Paneer Parantha , Chole , Thali , Aloo Paratha , Methi Paratha , Cheese Paratha"
+"New Bismillah Caterers",Mumbai,Airoli,3.4,84,"Biryani, Lebanese",No,No,"Chicken Biryani , Raita"
+"Duke of Food","Delhi NCR","Malviya Nagar",0,0,"North Indian, Chinese, Rolls",Yes,No,NULL
+"Kishan Cafe",Kolkata,"Bara Bazar",0,0,Cafe,No,No,NULL
+"AMA Cafe","Delhi NCR","Majnu ka Tila",4.5,3817,"Cafe, Juices",No,No,"Coffee , Pancakes , Mudcake , Pizza , Fries , Sandwich , Apple Pie"
+"New Delhi Metro Food Plaza","Delhi NCR","Chawri Bazar",0,0,"North Indian",Yes,No,NULL
+"Peppers & Pipes","Delhi NCR",Pitampura,3.6,47,"Chinese, Italian, Continental",Yes,No,"Red Sauce Pasta , Chilli Potatoes , Chicken Momo , Butter Chicken"
+"Hariram Sweets","Delhi NCR",Azadpur,2.8,6,"Mithai, Street Food",No,No,NULL
+"Ashoka Bar & Restaurant",Kolkata,Esplanade,3.5,71,"North Indian, Mughlai, Chinese, Seafood",No,No,NULL
+"New Royal Biryani",Kolkata,Behala,3.7,67,"Biryani, Mughlai",Yes,No,NULL
+"Woods Cafe","Delhi NCR","Mohan Nagar",4.3,107,"Cafe, North Indian, Fast Food",Yes,No,"Spring Roll , Malai Chaap , Mojito , Paneer Tikka , Noodle , Raita , Mocktails"
+"Just Coffee & More","Delhi NCR",Munirka,0,0,"Cafe, Sandwich",No,No,NULL
+"Hot Spot Pizza","Delhi NCR","Raj Nagar",3.6,62,"Italian, Fast Food",Yes,No,NULL
+"Chacha Chaudhary Junction","Delhi NCR",Rohini,0,0,Pizza,No,No,NULL
+"Hari Om Bhojanalaya","Delhi NCR","Vijay Nagar",3.7,125,"North Indian",No,No,"Dal Makhani"
+"AAPS 3SQUARE",Mumbai,Kamothe,0,0,"North Indian, Chinese",Yes,No,NULL
+"R.K. Dhaba","Delhi NCR","Sector 72, Noida",0,0,"North Indian",No,No,NULL
+"Crunchy Street","Delhi NCR","Raj Nagar",0,0,Bakery,No,No,"Blueberry , Mango , Strawberry"
+"Tian - Asian Cuisine Studio - ITC Maurya","Delhi NCR",Chanakyapuri,4.1,275,"Asian, Japanese, Chinese, Thai, Momos",No,Yes,"Wine , Jasmine Rice , Prawn , Chocolate Cake , Mushroom Soup , Fish , Thai Green Curry"
+"Khane Khas",Mumbai,"Pali Hill, Bandra West",4.3,710,"North Indian, Mughlai, Biryani, Rolls",Yes,No,"Rolls , Butter Chicken , Tandoori Chicken , Dal Makhani , Fish Tikka , Chicken Tikka Biryani , Kadhai Paneer"
+"36 China Town","Delhi NCR",Rohini,3.4,23,Chinese,No,No,NULL
+"The Albela's Kitchen",Kolkata,"Andul Road",3.2,12,"American, Chinese, Lebanese",No,No,NULL
+"J J Delicacies","Delhi NCR","Sector 15, Gurgaon",0,0,"North Indian, South Indian, Fast Food",Yes,No,NULL
+"The Roll Xpress","Delhi NCR",Shakarpur,3.3,65,"Fast Food, Chinese, Rolls, Momos",Yes,No,NULL
+"Bang Bang Cafe","Delhi NCR",Janakpuri,3.1,4,"Fast Food, Beverages",No,No,NULL
+"Sukoon - The Cafe","Delhi NCR","Sector 35, Faridabad",3.6,67,"Cafe, Fast Food",Yes,No,"Tea , Masala Chai , Coffee , Maggi , Burgers , White Sauce Pasta , Pink Sauce Pasta"
+"1Tablespoon Italian Ice Cream",Mumbai,"Matunga East",3.4,15,"Desserts, Ice Cream",No,No,NULL
+Banter,"Delhi NCR","Rajinder Nagar",4.8,622,"North Indian, Continental, Italian",No,Yes,"Mocktails , Dal Makhani , Butter Naan , Pasta , Margherita Pizza , Veggie Pizza , Iced Peach Tea"
+"Duke Bar & Restaurant",Kolkata,"Chandni Chowk",2.9,59,"Chinese, North Indian",No,No,"Fish , Fried Rice , Chips"
+"Chai Addaa",Kolkata,"Prince Anwar Shah Road",3.5,49,"Cafe, American, Fast Food",Yes,No,"Coffee , Pasta , Burgers"
+"My Tasty Corn","Delhi NCR","Nehru Nagar",0,0,"Fast Food",No,No,NULL
+"Badami Sweet & Restaurant","Delhi NCR","Zeta 1",3.7,125,"Mithai, North Indian",Yes,No,NULL
+"Lazeez Chicken","Delhi NCR",Rohini,0,0,"North Indian, Chinese",No,No,NULL
+Bhookkam,"Delhi NCR","Sainik Farms",3.4,12,"North Indian",Yes,No,NULL
+"Neel Ki Biryani",Mumbai,Marol,0,0,Biryani,Yes,No,NULL
+"Ganesh Bikanerwala","Delhi NCR","Ambedkar Road",3.5,26,"Mithai, Street Food",No,No,NULL
+"Hungry Ninja","Delhi NCR","Kirti Nagar",0,0,Chinese,No,No,NULL
+"Bhushan Cake Shop","Delhi NCR",Shahdara,0,0,Bakery,No,No,NULL
+"Bengal Sweet Corner","Delhi NCR",Safdarjung,3.6,243,"North Indian, South Indian, Chinese, Street Food, Mithai",Yes,No,"Rasmalai , Chole , Gulab Jamun , Rasgulla , Handi Biryani , Chaat , Paneer Jalebi"
+"Good Food Innovations LLP","Delhi NCR","Sector 63, Noida",0,0,"North Indian, South Indian, Chinese",No,No,NULL
+"Ammeez Kitchen",Mumbai,Marol,3.2,6,Konkan,No,No,NULL
+"Shahi Mahal Restaurant",Kolkata,Kidderpore,0,0,"North Indian",No,No,NULL
+"South Delhi Chicken Corner","Delhi NCR","Sheikh Sarai",2.9,8,"North Indian, Chinese",Yes,No,NULL
+"Sunny Sweets","Delhi NCR","DLF Phase 1",3.4,30,"Mithai, Street Food",No,No,NULL
+"J V's Fried Chicken","Delhi NCR","Uttam Nagar",3.5,62,"Fast Food",Yes,No,NULL
+"Barbeque Nation","Delhi NCR","Connaught Place",4.4,4748,"North Indian, Chinese, BBQ",No,Yes,"Kulfi , Fish , Biryani , Gulab Jamun , Paneer Tikka , Chicken Tikka , Brownie"
+"I.H.O.B - Indian House of Biryani","Delhi NCR","Sector 110, Noida",3.2,92,"North Indian, Mughlai, Biryani",Yes,No,"Mutton Keema Biryani , Butter Chicken , Raita , Paneer Tikka , Chicken Tikka Biryani"
+"Chinese Cuisine","Delhi NCR","Nehru Nagar",0,0,Chinese,No,No,NULL
+"Cafe Istaa",Mumbai,Sion,4.1,1111,"Cafe, Desserts, Italian, Salad",No,No,"Pasta , Pizza , Burgers , Waffles , Coffee , Brownie , Jalapeno Poppers"
+"Pepsi Snacks Bar",Kolkata,"New Market Area",3.4,29,"Street Food, Juices",No,No,"Chole Bhature , Lassi"
+"Leafy Affaire",Kolkata,"Theatre Road",3.5,39,"Salad, Italian, Burmese, Mexican",Yes,No,"Mexican Salad"
+"Masala Mix","Delhi NCR","Vasant Vihar",0,0,"Fast Food, North Indian",No,No,NULL
+"Jugnu Chaap","Delhi NCR",Rohini,3.7,47,"Fast Food, North Indian",Yes,No,NULL
+"Kitchens By SRR Masala",Mumbai,"Near Andheri East Station",0,0,Mangalorean,Yes,No,NULL
+"Wake Up Cafe","Delhi NCR","Malviya Nagar",3.7,50,"Fast Food, Beverages",Yes,No,"Burgers , Salad , Cheese Sandwich"
+"Royal Bakers","Delhi NCR",Nangloi,0,0,Bakery,No,No,NULL
+"Bro Cake","Delhi NCR","DLF Phase 4",3.5,29,Bakery,No,No,NULL
+"Noida Chinese Hut","Delhi NCR","Sector 45, Noida",0,0,"Chinese, Fast Food, Street Food",No,No,NULL
+"Royal Fast Food Hub",Kolkata,Konnagar,0,0,"Fast Food",No,No,NULL
+"New Raj Dairy","Delhi NCR","Krishna Nagar",3.6,20,"Bengali, North Indian",No,No,NULL
+"Pishoriya Vegetarian Dhaba","Delhi NCR","Punjabi Bagh",3.3,20,"North Indian",Yes,No,NULL
+Ambarsaria,"Delhi NCR",Ramprastha,3.4,202,"North Indian, Chinese",Yes,No,"Masala Chaap , Kadai Paneer , Dal Makhani , Butter Chicken"
+"Malvan Kinara",Mumbai,Chembur,3.4,26,Malwani,No,No,NULL
+"Kerala - Kingdom of Dreams","Delhi NCR","Sector 29, Gurgaon",2.6,37,"Fast Food",No,No,NULL
+"New Arsalan Biryani",Kolkata,Rishra,3.7,64,Biryani,Yes,No,NULL
+"Sana Egg Roll","Delhi NCR",Munirka,0,0,Rolls,No,No,NULL
+"Brew Sixteen","Delhi NCR","DLF Phase 2",3.8,52,"Pizza, Sandwich, Fast Food, Beverages",Yes,No,"Coffee , Sandwich , Pizza , Cappuccino"
+"Lobby Bar - Zone By The Park",Kolkata,"New Town",0,0,"North Indian, Continental",No,No,NULL
+"Ishu Paan","Delhi NCR","Sector 72, Noida",0,0,Paan,No,No,NULL
+"Chaat Chobara","Delhi NCR","MG Road, Gurgaon",3.5,32,"Street Food",Yes,No,"Chole , Dahi Bhalle , Vada Pav , Tikki , Pav Bhaji"
+"New Modern Cafe",Mumbai,"Dombivali East",3.9,738,"North Indian, Chinese, South Indian, Fast Food, Beverages",No,No,"Pav Bhaji , Masala Dosa , Pizza , Faluda , Sandwich , Dal Kichadi , Vada"
+"Mishti's Kitchen","Delhi NCR","Sector 51, Noida",3.7,470,Mughlai,Yes,No,"Butter Chicken , Biryani , Kadhai Paneer , Naan , Dal Makhani , Roti , Tandoori Chicken"
+"Anjali Resaturant","Delhi NCR","Vasundhara Enclave",3,5,"North Indian",No,No,NULL
+"Yummy In Tummy","Delhi NCR",Indirapuram,3.2,16,"Chinese, North Indian, Rolls",Yes,No,NULL
+"Rajinder Da Dhaba","Delhi NCR",Safdarjung,4.2,5537,"North Indian, Rolls",No,No,"Butter Chicken , Chicken Curry , Chicken Satay , Galauti Kebab , Dal Makhani , Fish , Tandoori Chicken"
+"Jia Mom's","Delhi NCR","Rajouri Garden",0,0,"Fast Food",No,No,NULL
+"Om Vati Sweet","Delhi NCR","Sector 39, Gurgaon",0,0,"Mithai, Street Food",No,No,NULL
+"Little Loco Pops",Mumbai,"Malad West",3.1,4,"Ice Cream",Yes,No,NULL
+Gravies,"Delhi NCR","Hauz Khas",3.7,180,"North Indian, Biryani, Mughlai",No,No,"Hyderabadi Biryani , Murgh Lababdar , Boondi Raita , Chicken Tikka Masala , Chicken Biryani , Butter Chicken , Mutton Biryani"
+"Asharam Foods","Delhi NCR","Chandni Chowk",3.6,18,"North Indian",No,No,NULL
+"Bell Pepper",Kolkata,Khardah,0,0,"North Indian",No,No,NULL
+Rapture,"Delhi NCR","Vivek Vihar, Delhi",3.5,165,"Bakery, Fast Food",Yes,No,"Sandwich , Brownie , Pasta , Chocolate Truffle , Garlic Bread , Eggless Cake , Fries"
+"Kamaluddin Restaurant",Mumbai,Byculla,3.4,22,"Chinese, Mughlai",No,No,NULL
+"Anju Restaurant","Delhi NCR",Munirka,0,0,"North Indian",No,No,NULL
+"Choudhary Gohana Famous Jalebi","Delhi NCR","Old Railway Road",2.9,15,"Mithai, North Indian",No,No,NULL
+"D'Momo Factory","Delhi NCR",Pitampura,4,173,"Chinese, Thai, Momos",Yes,No,"Noodle , Momo Burger , White Sauce Pasta , Tandoori Paneer Momos , Chicken Momo Platter , Wheat Momo , Wings"
+"New Town Bakery",Kolkata,"Chinar Park",3.2,68,"Bakery, Chinese, North Indian, Italian",Yes,No,NULL
+"Bowl Baby Bowl","Delhi NCR","Sector 21, Gurgaon",0,0,"Mexican, Continental",No,No,NULL
+"Lazeez Chicken Corner","Delhi NCR","Vasundhara Enclave",3.7,104,"North Indian",Yes,No,"Chicken Biryani , Tandoori Roti , Chicken Stew , Chicken Rara , Tawa Roti"
+"Fabelle Exquisite Chocolates",Kolkata,Ballygunge,3.5,20,Desserts,No,No,NULL
+"Bunooro Barbeque","Delhi NCR",Najafgarh,0,0,"Continental, Chinese",No,No,NULL
+"Nawab Seekh Corner",Mumbai,"Mohammad Ali Road",0,0,"Rolls, Kebab",Yes,No,NULL
+"Vrinda's Food","Delhi NCR",Shahdara,3.3,34,"North Indian, Chinese, South Indian, Bakery",No,No,NULL
+"Don's Den","Delhi NCR","Netaji Subhash Place",3.1,6,"North Indian, Chinese, South Indian, Continental",No,No,NULL
+"Hotel Ambika Pure Veg",Mumbai,"Dombivali East",3.8,315,"North Indian, Chinese, South Indian",No,No,"Pav Bhaji , Manchurian , Paneer Tikka Masala , Idli Sambar , Lassi , Khichda , Pizza"
+Chowpati,"Delhi NCR","Sector 31, Noida",3.5,48,"Street Food",Yes,No,"Bhel Puri , Panipuri"
+"Lust By The Pool - Radisson Blu Kaushambi Delhi NCR","Delhi NCR",Kaushambi,3.6,65,Asian,No,Yes,NULL
+KSC,"Delhi NCR",Vikaspuri,3,4,"North Indian, Chinese",Yes,No,"Tawa Paneer , Soya Malai Tikka , Tandoori Chicken , Singapuri Chowmein"
+"Bukhara - ITC Maurya","Delhi NCR",Chanakyapuri,4.3,4263,"North Indian, Kebab",No,No,"Dal Bukhara , Naan , Dal Makhani , Raan , Jumbo Prawns , Paneer Tikka , Rasmalai"
+"Zaiqa Mediterranean And Asian Cuisine",Kolkata,"Park Street Area",3.1,4,"Mediterranean, Asian",No,No,NULL
+"Jayka The Restaurant","Delhi NCR",Indirapuram,3.4,33,"Chinese, Mughlai, North Indian",Yes,No,NULL
+"Lorreta's Sweet Inspirations",Mumbai,Vasai,3.6,25,"Bakery, Desserts",No,No,NULL
+"Kushal Ki Rasoi","Delhi NCR",Munirka,0,0,"North Indian",No,No,NULL
+Aashirwad,"Delhi NCR","Mayur Vihar Phase 1",3.7,181,"North Indian, Chinese",Yes,No,"Paratha , Malai Kofta , Chole , Dum Aloo , Roti"
+Jadukadai,Kolkata,Konnagar,3.4,17,"North Indian, Chinese",Yes,No,NULL
+"Shri Ram Bhojnalaya","Delhi NCR","Mukherjee Nagar",0,0,"North Indian",No,No,NULL
+"Royal Cafe","Delhi NCR","Sector 45, Noida",3.3,13,"Fast Food",Yes,No,NULL
+"The Friendz Pizza","Delhi NCR",NIT,0,0,Pizza,No,No,NULL
+"UG Cafe Bar - HHI",Kolkata,Elgin,3.4,18,"Continental, Mexican, Desserts, Italian, Afghan",No,No,NULL
+"Mirch The Multicuisine","Delhi NCR","Alpha 1",0,0,"North Indian, Chinese",No,No,NULL
+Asia,"Delhi NCR","Dilshad Garden",0,0,"North Indian",No,No,NULL
+"The Pavor's","Delhi NCR",Janakpuri,3.7,62,"North Indian, Chinese, Momos",Yes,No,"Spring Roll"
+"Paramjeet Machi Wala","Delhi NCR","Moti Nagar",4,288,"Seafood, North Indian",No,No,"Fish Tikka , Chicken Seekh Roll , Rolls , Chicken Tikka , Fish Fry , Malai Tikka , Tandoori Fish"
+"Mathur's Kitchen","Delhi NCR","Dilshad Garden",3.1,4,"North Indian, Mughlai",No,No,NULL
+"Barbeque Street",Mumbai,Kharghar,0,0,"North Indian, Mughlai, Chinese",Yes,No,NULL
+"The Atrium - Savoy Suites","Delhi NCR","Knowledge Park",3.2,8,"Asian, Continental, North Indian",Yes,Yes,"Haryali Paneer Tikka , Ajwaini Fish Tikka , Chicken Malai Tikka"
+"Pizza King","Delhi NCR","Palam Vihar",3.4,29,Pizza,No,No,NULL
+"Oriental Spice",Mumbai,"Panch Pakhadi, Thane West",3.9,766,Chinese,No,No,"Noodle , Brownie , Manchow Soup , Prawn , Crabmeat Soup , Crab Soup , Kung Pao Chicken"
+Mithaas,"Delhi NCR","Sector 62, Noida",4.1,893,"Mithai, North Indian, South Indian, Street Food, Chinese",Yes,No,"Jalebi , Rasmalai , Pav Bhaji , Samosa , Rasgulla , Chole Bhature , Raj Kachori"
+"Rrice & Sspice",Kolkata,"New Town",2.9,6,"Bengali, Mughlai, Chinese",Yes,No,NULL
+"Cakes & Bakes","Delhi NCR","Malviya Nagar",3.6,141,Bakery,Yes,No,"Hot Dog , Truffle , Pineapple Cake , Fondant Cake"
+"Cream Creations",Kolkata,Maniktala,3.4,19,Bakery,No,No,NULL
+"Sweet Treat","Delhi NCR","Chittaranjan Park",3.6,67,Mithai,Yes,No,Rasgulla
+Indians,"Delhi NCR","Shastri Nagar",0,0,"Burger, Fast Food, Pizza",No,No,NULL
+"Bite Me","Delhi NCR","Karol Bagh",3,64,"Fast Food, North Indian, Chinese",Yes,No,NULL
+"Madira Restaurant & Bar",Mumbai,Parel,3.1,48,"North Indian, Chinese, Seafood",No,No,Beer
+"Biryani Batees","Delhi NCR","Greater Kailash 1 (GK1)",3.9,232,"Biryani, Lucknowi, North Indian, Mughlai",Yes,No,"Hyderabadi Biryani , Chicken Tikka , Lucknowi Biryani , Mutton Biryani , Butter Chicken Biryani , Vegetable Biryani , Tandoori Chicken"
+"Fresh Cake & Pastry Shop","Delhi NCR","Sector 72, Noida",0,0,Bakery,No,No,NULL
+"Deli - The Gateway Hotel",Kolkata,Kasba,3.9,50,"Bakery, Desserts",No,No,"Brownie , Tea , Chocolate Cake"
+"Eat 'n' Treat","Delhi NCR","Raj Nagar",0,0,Bakery,No,No,"Icecream , Paneer Patty , Muffin , Cupcake"
+"Barbeque Destination","Delhi NCR","Sector 15, Gurgaon",3.7,50,"North Indian, Chinese",Yes,No,"Butter Chicken , Tandoori Momos"
+"Park Street Bites","Delhi NCR","Sector 72, Noida",0,0,"Fast Food",No,No,NULL
+"Kuch Toh Mangalo","Delhi NCR","Vasant Kunj",3.2,7,"Fast Food, North Indian",No,No,NULL
+"Takkar Dhaba","Delhi NCR",Kalkaji,3.5,109,"North Indian",No,No,"Chicken Bharta , Plain Naan , Paratha"
+"Food Farm","Delhi NCR","Sector 41, Noida",3.3,27,"North Indian, Chinese",Yes,No,"Chilli Potatoes , Steamed Rice , Murgh Lababdar , Rajma Masala"
+"South Indian Kitchen",Kolkata,Tollygunge,3.3,7,"South Indian",Yes,No,NULL
+Fittoo,Mumbai,"Kandivali West",3.4,15,"Italian, Salad, Healthy Food",Yes,No,NULL
+"Le Cafe Foodies Adda","Delhi NCR","Central Delhi",0,0,"North Indian, Chinese, Fast Food",No,No,NULL
+"Hot Box",Mumbai,Virar,3.5,27,"Chinese, North Indian",Yes,No,NULL
+"Punjabi Rasoi","Delhi NCR",Kalkaji,2.6,43,"North Indian",Yes,No,NULL
+"Ginger Garlic","Delhi NCR","Sector 57, Gurgaon",3.6,193,"Chinese, Thai",Yes,No,"Noodle , Hakka Noodles , Vegetable Spring Roll , Momos , Chicken Honey , Clear Soup , Lamb"
+"Ud's Rasoi","Delhi NCR",Vikaspuri,3.2,19,"North Indian, Chinese",Yes,No,NULL
+"Mirch Masala",Kolkata,"Sector 1, Salt Lake",0,0,"Fast Food",No,No,NULL
+"The Grilled Station","Delhi NCR","Mayur Vihar Phase 3",3.8,80,"Fast Food",Yes,No,NULL
+"Flavours Food Hub","Delhi NCR",Rohini,0,0,"Fast Food",No,No,NULL
+"Nice Kream",Mumbai,"Kemps Corner",3.6,80,"Ice Cream, Desserts",No,No,"Nitrogen Ice Cream"
+"Bread & Pasta","Delhi NCR","Sector 48, Noida",3.4,21,"Fast Food",Yes,No,NULL
+Desi'52,"Delhi NCR","Sector 53, Gurgaon",3.7,23,"North Indian",Yes,No,NULL
+"A-1 Kolkata Kathi Roll","Delhi NCR",Indirapuram,0,0,"Rolls, Momos",No,No,NULL
+"The Anchorage Bar - The Floatel Hotel",Kolkata,"Dalhousie BBD Bagh",3.3,49,"Finger Food",No,No,NULL
+"Dosa 'n' Chinese","Delhi NCR",Sahibabad,2.7,9,"South Indian, Chinese, Momos",No,No,NULL
+"The All American Diner","Delhi NCR","Lodhi Road",4.1,5400,"American, Salad",No,No,"Pancakes , Burgers , Waffles , Pasta , Hot Dog , Sandwich , Breakfast Buffet"
+"Punjabi Dhaba","Delhi NCR","Sainik Colony",3.3,11,"North Indian",No,No,NULL
+"Fusion Kitchen","Delhi NCR",Vikaspuri,3.2,14,"North Indian, Chinese",Yes,No,"Chicken Tikka Wrap , Pasta Chicken Biryani , Chicken Kulcha Sandwich , Cripsy Fish Finger"
+"Bikaner Kitchen","Delhi NCR","Vivek Vihar, Delhi",0,0,"North Indian, Fast Food",No,No,NULL
+"Bangoli Dhaba",Kolkata,Barrackpore,0,0,"Bengali, North Indian",Yes,No,NULL
+"House of Biryanis",Mumbai,Worli,3.8,33,"Biryani, North Indian, Kebab",Yes,No,"Gooey Chocolate , Tikka , Paneer Cheese , Tandoori Chicken , Hyderabadi Chicken Biryani , Gulab Jamun , Butter Chicken Biryani"
+"Tandoori Nature","Delhi NCR",Jangpura,3.3,15,"North Indian, Chinese, Rolls",Yes,No,NULL
+"Nourishef 0 The Taste of Health",Kolkata,Baghajatin,0,0,"Continental, Healthy Food",No,No,NULL
+"Shri Sai Restaurant","Delhi NCR","Sector 51, Noida",0,0,"North Indian",No,No,NULL
+"Spicy Chicken","Delhi NCR","Uttam Nagar",0,0,"North Indian",No,No,NULL
+"Noodlez Express","Delhi NCR","Krishna Nagar",3.7,97,Chinese,Yes,No,"Noodle , Momos , Spring Roll"
+"Panda Town","Delhi NCR",Janakpuri,3.8,91,Chinese,Yes,No,"Noodle , Honey Chilli Potatoes , Hakka Noodles , Chicken Lollipop , Rolls , Egg Spring Roll , Momos"
+"Dwarkadhish Bhojnalya","Delhi NCR","Nehru Nagar",0,0,"North Indian",No,No,NULL
+"Red Carpet",Kolkata,"Dum Dum",3.3,140,"North Indian, Chinese",No,No,"Biryani , Chilli Chicken , Noodle , Naan , Schezwan Chicken , Chicken Soup"
+"Pa Pa Ya","Delhi NCR",Saket,4.7,3362,"Asian, Chinese, Thai, Japanese",No,Yes,"Cocktails , Chocolate Ball , Noodle , Mocktails , Tuna Sushi , Watermelon Juice , Crab Meat"
+"Baza Restaurant","Delhi NCR","Sector 83, Gurgaon (Gurugram)",3.3,46,"North Indian, South Indian, Chinese",Yes,No,NULL
+"Dilli Chaat Bhandar","Delhi NCR","Old Railway Road",3.2,8,"Street Food",No,No,NULL
+"The Bombay Cafe",Mumbai,"Grant Road",4.5,103,"Desserts, South Indian",Yes,No,"Waffles , Pancakes , Jini Dosa , Dilkhush Dosa , Gini Dosa , Cotton Candy , Pizza Dosa"
+"Rajinder Ka Dhaba","Delhi NCR","Sector 7, Dwarka",2.5,261,"North Indian, Chinese",Yes,No,"Dal Makhani , Butter Chicken , Chicken Methi Malai , Chicken Curry , Roti , Garlic Naan , Afghan Chicken"
+"The King Of Pizza","Delhi NCR","Sector 49, Noida",3.6,204,"Fast Food, Burger",Yes,No,"Pizza , Pasta"
+"The Chinese Kitchen","Delhi NCR",Ghaziabad,0,0,Ã„Å’ÃƒÂ­nska,No,No,NULL
+"Amber Family Restaurant",Mumbai,"Veera Desai Area",3.5,42,"Chinese, North Indian",No,No,NULL
+"Amul Ice-Cream Parlour","Delhi NCR","Chander Nagar, Delhi",0,0,"Ice Cream",No,No,NULL
+Asmars,Kolkata,Kestopur,0,0,"North Indian, South Indian, Beverages",Yes,No,NULL
+"Dal Cheeni","Delhi NCR","Sector 56, Gurgaon",3.4,15,"North Indian, Chinese, Continental, Italian",Yes,No,NULL
+Italiano,Mumbai,"Malad West",3.7,115,Italian,Yes,No,Pasta
+Shyam's,Kolkata,Salkia,3.4,29,"South Indian",No,No,NULL
+"AWM All Wings Meal","Delhi NCR",Munirka,0,0,"Chinese, Fast Food, Beverages",No,No,NULL
+Al-Zaika,"Delhi NCR","Malviya Nagar",2.9,34,Hyderabadi,Yes,No,NULL
+"U Me & Momos","Delhi NCR","Malviya Nagar",0,0,"Chinese, Continental, Momos, Beverages",No,No,NULL
+"Hot Plate","Delhi NCR","Sector 132, Noida",3.6,57,"North Indian, Chinese, Continental",Yes,No,"Butter Chicken"
+"Punjabi Tadka","Delhi NCR","Tilak Nagar",3.3,19,"North Indian, Chinese",Yes,No,NULL
+"Chick N Cheese","Delhi NCR","Crossing Republik",0,0,"North Indian, Mughlai",No,No,NULL
+"Kulcha Singh Amritsari","Delhi NCR",Vaishali,3.6,120,"North Indian",Yes,No,"Momos , Manchurian , Amritsari Lassi , Fried Rice , Noodle , Biryani"
+"The Food Storey",Kolkata,"Southern Avenue",3.9,75,"Continental, Asian",No,No,"Chicken Parmigiana , Steak , Pork Chops , Noodle"
+"Yellow Makai Restaurant","Delhi NCR",Vaishali,0,0,"North Indian",No,No,NULL
+"Dream Food Bank","Delhi NCR","Sector 12, Gurgaon",3.1,6,"North Indian",No,No,NULL
+"Udupi Veg Restaurant",Mumbai,Mumbra,3.6,39,"North Indian, South Indian",No,No,NULL
+"Tandoor Tadka",Mumbai,"Borivali West",3.9,211,"Lebanese, Chinese, North Indian",Yes,No,"Arabian Shawarma , Tandoori Chicken , Cheese Shawarma"
+"Pappu Indian & Chinese Restaurant","Delhi NCR",Munirka,0,0,"Chinese, North Indian",No,No,NULL
+"Vicky Marinated Momos","Delhi NCR","Lajpat Nagar 4",3.9,128,"Street Food",Yes,No,"Paneer Momos"
+"Glass N Grill",Kolkata,Uttarpara,3.4,15,"North Indian, Chinese",Yes,No,NULL
+"Saravana Bhavan","Delhi NCR","Connaught Place",4.4,7906,"South Indian, Desserts, Beverages",No,No,"Filtered Coffee , Thali , Mini Idlis , Appam , Rava Masala Dosa , Ghee Idli , Paneer Dosa"
+Moolchand's,"Delhi NCR","Karol Bagh",3.5,56,"Fast Food",No,No,"Chaat , Thali , Lassi , Masala Dosa"
+"Lick Me Ice Cream & Coffee Shop",Mumbai,Nalasopara,3.4,44,"Cafe, Desserts, Ice Cream, Beverages",Yes,No,Waffles
+ZopMeals,"Delhi NCR","Delhi University-GTB Nagar",3.8,287,"Continental, Italian, North Indian, Chinese",Yes,No,"Dal Makhani , Butter Chicken , Spring Roll , Pasta , Veg Manchurian , Hot Chocolate , Aloo Patty"
+"The Momo Hut","Delhi NCR","Vasant Vihar",0,0,"Chinese, Rolls",No,No,NULL
+"Royal Fast Food","Delhi NCR","New Friends Colony",0,0,"Fast Food",No,No,NULL
+"Tutur Kitchen",Kolkata,Baguihati,2.7,22,"Chinese, North Indian",No,No,NULL
+"VP ki Kitchen","Delhi NCR","Sector 53, Noida",0,0,"North Indian, Mughlai, Chinese",No,No,NULL
+"Startup Cafe","Delhi NCR",Jasola,3.9,354,"Cafe, Fast Food, North Indian",Yes,No,"Pizza , Club Sandwich , Chicken Tikka , Veg Platter , Burgers , Pasta Alfredo , Nachos"
+Chaska,"Delhi NCR","Raj Nagar",3.4,38,"North Indian",Yes,No,"Malai Kofta , Afghani Chaap , Mutton Seekh Kebab , Chicken Seekh Kebab"
+"Shake And Juice.com","Delhi NCR","Vijay Nagar",3.2,7,"Beverages, Ice Cream",Yes,No,NULL
+"Empire Bar",Kolkata,Chowringhee,3.7,56,"Finger Food",No,No,"Cocktails , Fish Finger"
+KFFCorner,"Delhi NCR","Uttam Nagar",3.1,5,"Fast Food",Yes,No,NULL
+"Pa Bakers",Mumbai,Vikhroli,3.7,65,Bakery,No,No,"Brownie , Chocolate Cake"
+"Sardar Ji Pakode Wale","Delhi NCR","West Patel Nagar",3.6,26,"Fast Food",No,No,NULL
+"Super Cake Point","Delhi NCR",Wazirabad,0,0,"Bakery, Desserts",No,No,NULL
+"Sahi Muradabadi Chicken Biryani Corner","Delhi NCR",Indirapuram,2.9,4,"Biryani, North Indian",No,No,NULL
+"Haji Affan Biriyani",Kolkata,"New Town",3.6,45,Biryani,Yes,No,NULL
+"Asli Muradabadi Chicken Biryani","Delhi NCR",Saket,0,0,Biryani,Yes,No,"Mutton Biryani , Mutton Korma , Chicken Biryani"
+Gaon,"Delhi NCR","Lajpat Nagar 2",3.9,214,"Bihari, Rajasthani",Yes,No,"Rajasthani Thali , Liti Chokha , Dal Bati , Litti , Bhuna Chicken , Churma , Lal Maans"
+Tamak,Mumbai,"Santacruz West",4.3,295,"North Indian",Yes,Yes,"Butter Chicken , Paan Ice Cream , Shahi Paneer , Jalebi Rabri , Dal Makhani , Soya Chaap , Kulcha"
+"Brownie Bakers",Mumbai,Ulwe,0,0,Bakery,Yes,No,NULL
+"Jeeta Kulfi Walle","Delhi NCR","Krishna Nagar",3.6,57,Desserts,Yes,No,NULL
+"Olive Bar & Kitchen","Delhi NCR",Mehrauli,4.4,2481,"Mediterranean, Italian, European, Salad, Seafood",Yes,Yes,"Pizza , Pasta , Wine , Cocktails , Mezze Platter , Salad , Tiramisu"
+"Premium Royal Biryani","Delhi NCR",Rohini,0,0,"Biryani, North Indian",No,No,NULL
+"Nasta Junction","Delhi NCR","Tilak Nagar",0,0,"Street Food",No,No,NULL
+"Chicken Point","Delhi NCR","Geeta Colony",3.4,99,"North Indian",Yes,No,"Butter Chicken , Chicken Tikka , Chilli Chicken"
+Vayanjan,"Delhi NCR",Kalkaji,3.2,7,"North Indian, Chinese",Yes,No,NULL
+"Pizza Hub","Delhi NCR","Dilshad Garden",3.4,23,Pizza,No,No,NULL
+Kathleen,Kolkata,Baguihati,0,0,"Bakery, Desserts",No,No,NULL
+Shakespier,"Delhi NCR","Green Park",0,0,"Cafe, Italian, Mexican",Yes,No,NULL
+"Cafe Kolkata",Kolkata,"Bara Bazar",0,0,"Fast Food",No,No,NULL
+"Standard Fast Food & Restaurant","Delhi NCR",Alaknanda,0,0,"North Indian, Chinese",No,No,NULL
+Souffle,Mumbai,"Malad East",3.2,6,"Bakery, Desserts, Fast Food",No,No,NULL
+"Cascades - The Grand New Delhi","Delhi NCR","Vasant Kunj",3.9,229,"North Indian, Continental, Asian",No,Yes,"Pancakes , Fish , Breakfast Buffet , Salad , Sushi , Lunch Buffet , Dal Makhani"
+"My Mother's Kitchen","Delhi NCR","Sector 54, Gurgaon",3.4,12,"North Indian",Yes,No,NULL
+"Kings Food Corner","Delhi NCR","Sohna Road",3.2,16,"North Indian, South Indian",Yes,No,"Tandoori Chicken , Chicken Rara , Chicken Tikka"
+Maati,"Delhi NCR","Amrapali Leisure Valley",4.1,237,"North Indian, Chinese, Mughlai, Biryani",Yes,No,"Paneer Tikka , Momos , Butter Chicken , Noodle , Tandoori Chicken , Biryani , Matka Murgh"
+"Bholu Da Dhaba","Delhi NCR",Mahipalpur,0,0,"North Indian",No,No,NULL
+Sugandh,"Delhi NCR","Raj Nagar",3.8,304,Mithai,Yes,No,"Samosa , Chole Bhature , Dhokla , Raj Kachori"
+"Angel Snacks","Delhi NCR","Krishna Nagar",0,0,"Italian, Fast Food",No,No,NULL
+Cake,"Delhi NCR","Sector 44, Gurgaon",2.9,10,Bakery,Yes,No,NULL
+"Amrit Bhog",Kolkata,"Howrah Station Area",3.5,18,"Desserts, South Indian, Fast Food",Yes,No,NULL
+"Brain Freeze Icecream & Desserts",Mumbai,"Borivali West",4.1,318,"Ice Cream, Desserts",Yes,No,"Waffles , Brownie Chocolate , Flavored Ice Cream , Belgium Chocolate"
+"Noon To Moon","Delhi NCR","South Extension 1",2.8,5,"North Indian, Chinese",Yes,No,NULL
+"Keshar Restaurant",Mumbai,Nalasopara,3.3,15,"North Indian, Seafood",Yes,No,NULL
+"Lazzat E Kolkata",Kolkata,Kaikhali,0,0,"North Indian",Yes,No,NULL
+"CFD - Crazzy For Dimsums","Delhi NCR","Sector 26, Noida",3.7,46,"Fast Food, Momos",Yes,No,"Afghani Momos , Kurkure Momo , Oreo Shake"
+Suziewong,"Delhi NCR","Sector 49",3.8,107,"Thai, Chinese, Momos",Yes,No,"Momos , Noodle , Spring Roll , Chilli Paneer , Chicken Gyoza , Manchurian , Hakka Noodles"
+"Punjabi Zaika","Delhi NCR",Sahibabad,2.7,10,"North Indian, Mughlai",No,No,NULL
+Kaligodam,Kolkata,"Bara Bazar",3.5,28,"Mishti, Street Food",Yes,No,NULL
+"R9 Roadiz","Delhi NCR",Janakpuri,0,0,"North Indian, Chinese",No,No,NULL
+"Kafila Lounge & Bar","Delhi NCR",Shahdara,0,0,"Finger Food, North Indian",No,No,NULL
+Gokul9,Mumbai,Colaba,3.7,38,"Fast Food",No,No,"Pav Bhaji , Idli , Masala Pav , Vada Pav"
+"Shobhit Yadav Bhoj","Delhi NCR","Raj Nagar",3.2,8,"North Indian, Chinese",Yes,No,"Shahi Paneer , Butter Chaap , Kadhai Paneer"
+"Sky Wok - Park Inn by Radisson","Delhi NCR",Patparganj,4.3,170,"Chinese, Momos",No,No,"Chicken Dim Sum , Spring Roll , Manchurian , Hakka Noodles , Drums Of Heaven , Jasmine Tea , Mocktails"
+Mehfil,"Delhi NCR","Defence Colony",3.3,66,"North Indian, Chinese",Yes,No,NULL
+"Cafe Plus","Delhi NCR","Sector 18, Noida",2.8,8,"Mexican, Fast Food",Yes,No,"Vegetable Grilled Sandwich , Veg Burger , All Veggie Pasta , Chicken Salami And Egg Pizza"
+"The Bombay Natural Kulfi","Delhi NCR","Karol Bagh",3.6,42,"Desserts, Ice Cream",Yes,No,NULL
+"Delhi Delight Food","Delhi NCR",Alaknanda,0,0,"Chinese, Fast Food",No,No,NULL
+"Shree Nandi Dosa",Mumbai,Vashi,0,0,"Fast Food, South Indian, Tea",Yes,No,NULL
+"Uncle Taste-Only Chinese","Delhi NCR","Sector 110, Noida",0,0,Chinese,Yes,No,NULL
+"Cafeteria & Co.","Delhi NCR","Vijay Nagar",4.6,4639,"Continental, Mexican, Fast Food",No,No,"Burgers , Fries , Pizza , Pasta , Death By Chocolate , Tiramisu Shake , Peri Peri Chicken Tikka"
+"Bikaner's Sweets","Delhi NCR",Mahipalpur,0,0,"Mithai, Street Food",No,No,NULL
+"Satya Narayan Fast Food",Kolkata,Serampore,0,0,"Chinese, Fast Food",No,No,NULL
+"Loaf Espresso",Kolkata,Barasat,3.6,32,"Beverages, Fast Food",Yes,No,NULL
+"Garden Restaurant",Mumbai,Marol,3.5,25,"North Indian, Mughlai, South Indian, Chinese, Mangalorean",Yes,No,NULL
+"Choicest Cakes","Delhi NCR","Sector 93, Noida",3.6,26,Bakery,Yes,No,NULL
+"TNG Food - Tandoor & Grill","Delhi NCR","Raj Nagar",4,149,"North Indian, Chinese, European, Italian, Mexican",Yes,No,"Pasta , Chaap , Butter Naan , Chicken Wings , Chilly Paneer Sizzler , Lasagne , Dal Makhani"
+"EmblemÃ¢â‚¬â„¢s Kitchen","Delhi NCR","Sector 14, Gurgaon",3.2,9,"Continental, North Indian, Chinese",No,Yes,NULL
+"World Of Pizzeria Bistro","Delhi NCR","Raj Nagar",3.2,6,"Italian, North Indian, Fast Food",No,No,NULL
+"Soul Cafe 24*7",Kolkata,Kankurgachi,3.4,11,Cafe,No,No,NULL
+"Hyderabad Spl. Chicken Biryani Point","Delhi NCR","Mukherjee Nagar",3.5,62,Mughlai,No,No,NULL
+"37 Food Hub","Delhi NCR","Sector 37, Gurgaon",3.4,18,"North Indian, Chinese, Mughlai",Yes,No,NULL
+"Shahi Roll Center","Delhi NCR",Nangloi,0,0,Rolls,No,No,NULL
+"Suruchi Zeal",Mumbai,Vasai,3.6,162,"North Indian, Chinese, Thai",No,No,"Naan , Sea Food , Chicken Hot Garlic , Chicken Lollipop"
+"Paratha Plaza","Delhi NCR","Qutab Institutional Area",0,0,"North Indian, Chinese",No,No,NULL
+Shikhara,"Delhi NCR","Greater Kailash 1 (GK1)",4.2,456,"North Indian, Mughlai",Yes,No,"Butter Chicken , Mutton Korma , Chicken Tikka , Naan , Fish Tikka , Dal Shikhara , Dal Makhani"
+"Vishu's Cakery","Delhi NCR","South City 2",0,0,Bakery,No,No,NULL
+"Anytime Kitchen","Delhi NCR","Rajouri Garden",3.2,10,"North Indian, Chinese",Yes,No,NULL
+Foodicious,"Delhi NCR","Sector 1, Noida",0,0,"Fast Food, Street Food",No,No,NULL
+"Annapurna Hotel",Kolkata,"New Town",0,0,"North Indian, Chinese",No,No,NULL
+"Hungry Minister","Delhi NCR","Sector 41, Noida",3.7,280,"Continental, Mexican, Fast Food, Chinese",Yes,No,"Burgers , Sandwich , Chilli Chicken , White Sauce Pasta , Salad , Paneer Burger , Veg Burger"
+"Maakhan Kulfi","Delhi NCR","Krishna Nagar",3.6,83,"Ice Cream, Beverages",Yes,No,"Kulfi , Waffles"
+"Beeji Ki Rasoi",Mumbai,"Santacruz West",3.5,22,"North Indian, Street Food",Yes,No,NULL
+"Trendy Foods",Kolkata,Kestopur,3.4,17,"Rolls, North Indian, Chinese, Biryani, Fast Food",Yes,No,NULL
+"Urban Pasta King","Delhi NCR",Rohini,0,0,"Fast Food, Beverages",Yes,No,NULL
+"The Bawarchi Restaurant",Mumbai,Nalasopara,3.3,14,Chinese,Yes,No,NULL
+Tamasha,"Delhi NCR","Connaught Place",4.5,8866,"Finger Food, North Indian, Continental, Italian",No,No,"Pizza , Cocktails , Pasta , Nachos , Long Island Iced Tea , Beer , Virgin Mary"
+"Mad Drop","Delhi NCR","Sector 21, Faridabad",4,190,"Fast Food, Beverages, Desserts",Yes,No,"Pasta , Waffles , Burgers , Pizza Fries , Freak Shake , Cheese Burger , Hot Chocolate"
+"Pandit Ji Tikki Wale","Delhi NCR","Sector 72, Noida",0,0,"Street Food",No,No,NULL
+"Crossroad Udipi",Kolkata,"Jodhpur Park",3,4,"South Indian, Street Food",Yes,No,NULL
+"SDB Smoking Pizza & Bakers","Delhi NCR","Jawahar Colony",3.1,4,"Bakery, Fast Food",Yes,No,NULL
+"Royal Challenge",Mumbai,"Goregaon East",3.5,397,"North Indian, Chinese, Seafood",Yes,Yes,"Butter Chicken , Naan , Cocktails , Manchow Soup , Dal Tadka , Rumali Roti , Paneer Tikka"
+"Balaji Fast Food","Delhi NCR",Ballabhgarh,0,0,"Fast Food, Chinese",No,No,NULL
+"Bilal Restaurant","Delhi NCR",Jasola,3.1,5,"North Indian",No,No,NULL
+"Glaz'd Patisserie","Delhi NCR","DLF Phase 3",0,0,Bakery,No,No,NULL
+"Madras Coffee House","Delhi NCR","Sector 135, Noida",3.3,8,Beverages,No,No,NULL
+"Capital Curry","Delhi NCR",Jasola,3.5,82,"North Indian, Mughlai",Yes,No,"Paneer Makhani , Butter Chicken , Chicken Biryani , Dal Makhani"
+"The Baker's Street",Kolkata,Ichapur,0,0,Bakery,No,No,NULL
+"Chik Plaza","Delhi NCR","Sector 72, Noida",0,0,"Raw Meats, Fast Food",No,No,NULL
+"Balaji Parantha Corner","Delhi NCR","Laxmi Nagar",3.4,42,"North Indian",Yes,No,NULL
+"Vasant Fresh Juice & Snacks Centre",Mumbai,"Kandivali East",0,0,"Fast Food, Juices",Yes,No,NULL
+"Breads Alone","Delhi NCR","Sector 50, Gurgaon",3.8,72,"Fast Food, Desserts, Beverages",Yes,No,"Sandwich , Salad , Burgers , Pizza , Cheesecake"
+"A-One Hazi Biryani",Kolkata,Tollygunge,3.6,31,Biryani,Yes,No,NULL
+"Rapido 18 Fast Food","Delhi NCR","Sector 18, Noida",0,0,Chinese,Yes,No,NULL
+"Shudh Vaishno Rasoi","Delhi NCR","Sector 37, Gurgaon",3.6,29,"North Indian",Yes,No,NULL
+"Prema Vilas",Kolkata,"Lake Market Area",3.8,352,"South Indian",No,No,"Filtered Coffee , Rava Dosa , Upma , Rasam Vada , Masala Dosa , Dhania Dosa , Cheese Sada Dosa"
+"Grill N Veg","Delhi NCR","Mayur Vihar Phase 1",0,0,"Sandwich, Pizza, Burger, Beverages",No,No,NULL
+"Woody's Grill","Delhi NCR","West Delhi",4.4,98,"Continental, Biryani, Kebab, Rolls, Roast Chicken, Asian, Fast Food, Italian",Yes,No,"Chicken Tikka , Butter Chicken , Pasta , Noodle , Pizza , Dal Makhani , Malai Tikka"
+"La Pino'z Pizza","Delhi NCR","Sector 31, Gurgaon",3.7,282,"Pizza, Fast Food",Yes,No,"Pizza , Mojito , Peanut Butter Milkshake , Mixed Sauce Pasta , Iced Tea , Cheesy Garlic Bread , White Sauce Pasta"
+"Chinese Hub","Delhi NCR",Loni,0,0,"Fast Food",No,No,NULL
+Coastal,Mumbai,"Malad West",3.6,96,"Chinese, North Indian, Seafood, Mughlai",Yes,No,"Bombil Fry , Chicken Biryani"
+"Raj's Delight",Mumbai,CBD-Belapur,3.3,14,"North Indian, Chinese",Yes,No,NULL
+"Bangla Food Point","Delhi NCR","Sector 53, Noida",3.4,18,"Bengali, North Indian",No,No,NULL
+"Lajawab Restaurant","Delhi NCR","Sector 44, Noida",3.4,42,"North Indian, Chinese, Mughlai",Yes,No,NULL
+"Dev Kathi Rolls & Momos","Delhi NCR","Sector 72, Noida",0,0,"Rolls, Momos",No,No,NULL
+"Malabar Foods","Delhi NCR","Mayur Vihar Phase 2",3.3,136,"North Indian",Yes,No,"Mixed Vegetables , Laccha Paratha , Shahi Paneer , Butter Naan , Tandoori Chicken"
+ZASTY,"Delhi NCR","Gurgaon (Gurugram)",3.4,30,"North Indian",No,No,"Butter Chicken , Tandoori Momos , Paneer Pasanda"
+"Adros Kitchen",Kolkata,Kasba,0,0,"Chinese, North Indian",Yes,No,NULL
+"Brothers Bakery","Delhi NCR","Sector 37, Gurgaon",2.9,8,"Bakery, Fast Food, Chinese",Yes,No,NULL
+"Manish Fast Food Corner","Delhi NCR","Sector 62, Noida",0,0,Chinese,No,No,NULL
+"Tikka Express meets Chennai Express","Delhi NCR","Sector 72, Noida",3.8,229,"Chinese, North Indian, South Indian",Yes,No,"Butter Chicken , Chaap , Paneer Tikka , Murgh Lababdar , Dal Makhani , Panneer Butter Masala , Chicken Malai Tikka"
+FoodPost,Mumbai,Powai,4,28,"North Indian, Chinese",Yes,No,"Vegetable Biryani , Paneer Lababdar , Kadhai Paneer , Chilli Paneer"
+"Momo Mania",Kolkata,Barasat,3.5,19,"Momos, Beverages",Yes,No,NULL
+"The Panda Factory","Delhi NCR","West Delhi",3.4,16,"North Indian",Yes,No,NULL
+"Meenu Di Kitchen","Delhi NCR",Mehrauli,0,0,"Fast Food, North Indian",No,No,NULL
+"Deol Da Dhaba","Delhi NCR","Lawrence Road",3.5,39,"North Indian",Yes,No,NULL
+"Billu's Hut","Delhi NCR","Netaji Subhash Place",4.2,2743,"Fast Food, Chinese, Beverages, Italian",Yes,No,"Oreo Shake , White Sauce Pasta , Punjabi Pasta , Club Sandwich , Mixed Sauce Pasta , Kit Kat Shake , Mojito"
+"Tittli Cafe","Delhi NCR","Sector 53, Gurgaon",3.2,6,Cafe,No,No,NULL
+"Rolls Hut","Delhi NCR","West Patel Nagar",2.6,293,"Fast Food, Rolls",Yes,No,"Rolls , Chicken Egg Roll , Veggie Roll , Soya Roll , Malai Chaap Roll"
+"Limelight Restaurant & Bar",Kolkata,"Dalhousie BBD Bagh",3.3,75,"North Indian, Chinese, Continental",No,No,"Lime Soda , Chicken Stroganoff , Garlic Chicken , Chilli Chicken , Sandwich , Hakka Noodles"
+"Anmol Bakery","Delhi NCR","Sector 22, Noida",0,0,"Bakery, Fast Food",No,No,NULL
+"Cafe MMJ - Mumbai Meri Jaan",Mumbai,"Old Panvel",3.5,31,"Cafe, Fast Food, Chinese",Yes,No,NULL
+"Trendz 0 The Lalit Mumbai",Mumbai,Chakala,3.5,79,Talianska,No,Yes,"Kulfi , Risotto , Tiramisu"
+"Uncle Sams Chick-Inn","Delhi NCR","Sector 22, Dwarka",3.6,41,"Raw Meats, Fast Food, North Indian",Yes,No,NULL
+"Wrappy Potter and The Prisoner Of Taste.","Delhi NCR",Pitampura,4,241,"Beverages, Fast Food, Sandwich, Wraps, Momos",Yes,No,"Chocolate Brownie Shake , White Sauce Pasta , Burgers , Chicken Tandoori Sandwich , Peri Peri French Fries , Tandoori Momos , Maggi"
+"The Yummy Taste","Delhi NCR","Sector 62, Noida",3.1,4,"North Indian, Chinese",No,No,NULL
+"Lokenath Hotel",Kolkata,"New Alipore",0,0,"North Indian, Bengali, Chinese",Yes,No,NULL
+"Star Kitchen Restaurants & Tiffin Service","Delhi NCR","Sector 7, Dwarka",3.1,5,"North Indian",Yes,No,"Dal Tadka , Dal Chana , Dal Masoor , Dal Yellow"
+"Shireen Restaurant","Delhi NCR",Mahipalpur,0,0,"North Indian, Chinese",No,No,NULL
+"Grub Station","Delhi NCR","Sector 45, Gurgaon",3.9,54,"Fast Food, Burger, Sandwich, Salad, Continental",No,No,"Burgers , Salad , Pasta , Momos , Club Sandwich"
+"Jumpin Beans",Mumbai,"Lower Parel",0,0,"Pizza, North Indian, Healthy Food",Yes,No,NULL
+"Food Any Time","Delhi NCR",Rohini,3.2,36,"American, Mexican, Italian, Continental",Yes,No,"Salad , Pizza"
+"Dipu's Fast Food",Kolkata,Kankurgachi,3.3,14,"North Indian, Mughlai, Chinese, Rolls",Yes,No,NULL
+"Delhi Food Junction","Delhi NCR","Lado Sarai",0,0,"North Indian",No,No,NULL
+"UP Wala Tadka","Delhi NCR","Crossing Republik",3,11,"North Indian, Street Food",Yes,No,NULL
+"Singh Chicken Corner","Delhi NCR","West Patel Nagar",2.7,48,"North Indian, Mughlai",Yes,No,NULL
+"Tandoori Town","Delhi NCR","Raj Nagar",0,0,"North Indian, Chinese",No,No,NULL
+"Coffee & Bites","Delhi NCR","Vijay Nagar",3.2,62,"Fast Food",Yes,No,"Burgers , Coffee Hazelnut , White Sauce Pasta"
+"Madras Coffee House","Delhi NCR","Connaught Place",2,304,"North Indian, South Indian, Chinese",No,No,"Filtered Coffee , Masala Dosa , Onion Uttapam , Vada Sambar , Thali , Curd Rice , South Indian Filter Coffee"
+"Interval Chinese & Fastfood",Kolkata,Kalyani,0,0,"Chinese, Fast Food",Yes,No,NULL
+"Mughal Flavour's",Mumbai,Kurla,2.5,135,"Mughlai, North Indian, Chinese",Yes,No,"Chicken Shawarama , Shawarma , Dal Gosht , Naan , Butter Chicken , Roti , Caramel Custard"
+"Sita Ram Diwan Chand","Delhi NCR",Paharganj,4.2,3146,"North Indian",Yes,No,"Chole Bhature , Chhole Bhature , Lassi , Chana Masala , Choley Bhature , Chole Kulche , Chana Bhatura"
+"Shere Punjab","Delhi NCR","MG Road, Gurgaon",3.3,21,"North Indian",Yes,No,"Shahi Paneer , Butter Chicken , Mutton Biryani , Punjabi Rajma"
+"Maa Ki Rasoi","Delhi NCR","Rajinder Nagar",3.2,7,"Maharashtrian, South Indian",No,No,NULL
+"New Embassy",Kolkata,Chowringhee,3.5,131,Chinese,No,No,"Noodle , Chilli Chicken , Momos , Hakka Chowmein , Clear Soup , Schezwan Chicken , Mixed Fried Rice"
+"Harish Pastry Shop","Delhi NCR",Shahdara,0,0,"Bakery, Desserts",Yes,No,"Oreo Cake , Blackforest Cake , Butterscotch Cake , Pineapple Cake"
+"Prerna Family Restaurant","Delhi NCR","Sector 22, Noida",3,4,"North Indian, Chinese",No,No,NULL
+"Chhotu Kolkata Kathi Roll","Delhi NCR",Alaknanda,0,0,Rolls,No,No,NULL
+"Zaika Hub",Mumbai,Sanpada,3.6,147,"North Indian, Biryani, Chinese",Yes,No,"Dum Biryani , Seekh Kebab , Mutton Seekh , Roti , Noodle , Paneer Tikka Masala"
+"South Indian Point","Delhi NCR","Lawrence Road",3.2,14,"South Indian",Yes,No,NULL
+"Ekto9 - True Oriental Flavours","Delhi NCR","Gurgaon (Gurugram)",4.3,96,Asian,Yes,No,"Sushi , Bang Bang Chicken , Chilli Paneer , Crispy Chicken , Fried Rice , Hakka Noodles , Chilli Chicken"
+"F5 Corner",Mumbai,"Malad West",3.5,25,"Fast Food",Yes,No,NULL
+D-Den,Kolkata,"New Market Area",3.6,348,"Cafe, Fast Food",No,No,"Noodle , Momos , Pizza , Pasta"
+"Spesh Food","Delhi NCR","Kirti Nagar",0,0,"South Indian",Yes,No,NULL
+"Tanishka Chicken Corner","Delhi NCR","Mukherjee Nagar",0,0,Mughlai,No,No,NULL
+"Philco Bakery","Delhi NCR",NIT,3.7,110,"Bakery, Fast Food, Chinese, Pizza",Yes,No,"Rolls , Cheese Patty , Kathi Roll"
+"Kafe Mitro","Delhi NCR","Sector 7, Dwarka",3.2,21,"North Indian, Chinese, Continental",No,Yes,NULL
+"Bhagat Ji Sweets","Delhi NCR","Shastri Nagar",3.1,7,"Mithai, Street Food",Yes,No,"Sandesh , Khas Khas Burfi , Khoya Roll , Mathura Peda"
+"Pampa Fast Food centre",Kolkata,Kalyani,0,0,"Chinese, Street Food",Yes,No,NULL
+"Bhuri Bhoj Restaurant",Kolkata,Shibpur,3.3,40,"Bengali, Chinese",No,No,NULL
+"Gupta's Rasoi","Delhi NCR","Sector 37, Gurgaon",3.4,149,"North Indian, South Indian, Street Food",No,No,Chaat
+PePizza,"Delhi NCR","Gurgaon (Gurugram)",2.6,278,Pizza,Yes,No,"Chocolate Pizza , Seafood Pizza , Florentine Pizza , Pepperoni Pizza , Butter Chicken Pizza , Sea Food , Bbq Chicken Pizza"
+"Balsai Hospitalities","Delhi NCR","Sector 63, Noida",0,0,"Beverages, Biryani, North Indian, South Indian",No,No,NULL
+"Real Food of Delhi","Delhi NCR","Sector 63, Noida",3.6,74,"North Indian, Chinese",Yes,No,"Thali , Butter Chicken , Biryani , Dal Makhani"
+"Southern Spice Rootz","Delhi NCR","Tilak Nagar",3.6,110,"South Indian, Chinese, North Indian",Yes,No,"Vada , American Delight Dosa , Chicken Lollipop , Clear Soup , Masala Dosa"
+"Cafe Limelight","Delhi NCR","Sector 41, Noida",3.8,115,"North Indian, Chinese, Rolls",No,No,"Pasta , Chicken Sandwiches , Pizza , Virgin Mojito , Chaap , Fries , Burgers"
+"Sam Ventures","Delhi NCR",Shakarpur,0,0,"Fast Food, Coffee",No,No,NULL
+"Chinese Roll Corner","Delhi NCR",Janakpuri,0,0,Chinese,No,No,NULL
+"Roshni Food Point",Mumbai,Fort,3.6,27,"North Indian, Fast Food, Parsi",Yes,No,NULL
+"Punjab Di Hatti","Delhi NCR","Dilshad Garden",0,0,"North Indian",Yes,No,NULL
+Gulati,"Delhi NCR","Pandara Road Market",4.4,6191,"North Indian, Mughlai, Kebab",Yes,No,"Butter Chicken , Dal Makhani , Handi Biryani , Palak Kofta , Kastoori Kebab , Keema Naan , Chaach"
+"Guddu Ji Malai Chaap Waale","Delhi NCR","Shastri Nagar",3,4,"North Indian, Rolls",No,No,NULL
+"The French Loaf",Kolkata,Elgin,3.8,370,"Bakery, Desserts",No,No,"Sandwich , Salad , Coffee , Chocolate Eclair , Apple Pie , Corn Puff , Pasta"
+"Pizza Club","Delhi NCR","Uttam Nagar",3.7,41,"Pizza, Fast Food",Yes,No,Pizza
+"Ideal Bytes Ice Cream Parlour",Mumbai,"Mira Road",3.7,72,"Ice Cream, Fast Food",Yes,No,"Gadbad Ice Cream , Tiramisu , Faluda , Burgers , Carrot Halwa"
+"Balaji Idli House",Mumbai,"Kandivali West",3.5,231,"South Indian",No,No,"Medu Vada , Thali , Pav Bhaji Dosa , Uttapam , Appam , Butter Idli , Masala Dosa"
+"Hotel Krishna Sagar","Delhi NCR","Shastri Nagar",3,9,"Chinese, Fast Food, North Indian, South Indian",Yes,No,NULL
+"Gupta Rasoi","Delhi NCR","Nehru Place",3.6,35,"Chinese, North Indian",Yes,No,"Dal Makhani"
+"Tea And Tiffin",Kolkata,"Kona Exp Way",0,0,Bengali,No,No,NULL
+"Moonlight Sonata",Kolkata,Dhakuria,3.5,104,"Chinese, North Indian",Yes,No,"Chicken Pakora , Noodle , Fried Rice Chicken , Schezwan Rice , Spring Chicken , Lime Soda , Garlic Chicken"
+"Diet Tailor","Delhi NCR",Rohini,0,0,"Healthy Food, Fast Food, Beverages",No,No,NULL
+"Dada Ka Dhaba","Delhi NCR","R K Puram",3.5,26,"North Indian",Yes,No,NULL
+Fusion,"Delhi NCR","Malviya Nagar",0,0,"North Indian, Momos",No,No,NULL
+Locale,"Delhi NCR",Vaishali,3.2,6,"Finger Food",No,No,NULL
+"Shree Ram Bhojnalaya","Delhi NCR","Mukherjee Nagar",0,0,"North Indian",No,No,NULL
+"Utsav Kitchen",Mumbai,"Ghodbunder Road",3.9,776,"North Indian, Chinese, Biryani, Kebab, Mughlai",Yes,No,"Pav Bhaji , Pasta , Nachos , Bruschettas , Dal Kichadi , Cheese Corn Balls , Pizza"
+"RTS Food Corner",Mumbai,"Vasant Vihar, Thane West",3.4,21,Kerala,Yes,No,NULL
+"Sweet Cravings","Delhi NCR","Green Park",0,0,Bakery,No,No,NULL
+"Just Cakez","Delhi NCR","Sector 29, Noida",0,0,Bakery,Yes,No,NULL
+"Kaynat Haji Biryani Centre",Kolkata,Chandannagar,3,0,Biryani,Yes,No,NULL
+"The World Pizza Hub","Delhi NCR","Badarpur Border",3.3,13,"Pizza, Fast Food",Yes,No,NULL
+"Munchery Kitchen","Delhi NCR",Rohini,0,0,"Fast Food, Chinese",Yes,No,NULL
+"Chennai Express",Kolkata,"Ajoy Nagar",3,4,"South Indian, Street Food",Yes,No,NULL
+"Pizzato Brothers","Delhi NCR","Moti Nagar",3.6,35,"Pizza, Italian",Yes,No,NULL
+"Thali Meals","Delhi NCR","Malviya Nagar",3.5,31,"North Indian",Yes,No,NULL
+Patliputra,"Delhi NCR","Lado Sarai",0,0,"North Indian",No,No,NULL
+"Say Cheese","Delhi NCR","Yusuf Sarai",3.5,191,"Fast Food",Yes,No,"Sandwich , Poha , Pasta , Iced Tea , Burgers , Veg Burger , Pizza"
+"Amritsari Kulcha Junction",Mumbai,Mahakali,3.7,680,"North Indian",Yes,No,"Chole , Lassi , Chaach , Paneer Kulcha , Amritsari Aloo Kulcha , Chaat , Raita"
+"Punjabi Angithi","Delhi NCR","Paschim Vihar",4.5,3904,"North Indian, Chinese",Yes,Yes,"Dal Makhani , Chaap , Paneer Tikka , Momos , Shahi Paneer , Rolls , Paneer Lababdar"
+"New Royal Biryani",Kolkata,"College Street",3.2,137,"Biryani, North Indian",Yes,No,"Mutton Biryani , Chicken Chaap , Chicken Biryani"
+"Bikaner Misthan Bhandar","Delhi NCR",NIT,3.6,140,"Mithai, Street Food",No,No,NULL
+"Red Pepper","Delhi NCR","Delhi Cantt.",3.8,99,"North Indian, Chinese",Yes,No,NULL
+Chinese,"Delhi NCR","DLF Cyber City",0,0,"Chinese, Continental",No,No,NULL
+"Cake Time","Delhi NCR",Kalkaji,0,0,"Bakery, Fast Food",No,No,NULL
+"Bhagat Ji Sweets","Delhi NCR","Beta 1",3.2,11,Mithai,No,No,NULL
+"Standard Hotel & Restaurant",Kolkata,Chinsura,0,0,"North Indian, Chinese, Continental",No,No,NULL
+"Talokar Bakers",Mumbai,Kharghar,3.6,43,Bakery,Yes,No,NULL
+"34 Street Lane","Delhi NCR",Rohini,0,0,Rolls,No,No,NULL
+"Pre Pizza","Delhi NCR",NIT,0,0,Pizza,Yes,No,NULL
+"N.S Food Corner","Delhi NCR","Lado Sarai",0,0,"North Indian",No,No,NULL
+"Papa Punjab",Mumbai,"Goregaon West",3.6,149,"North Indian, Chinese",Yes,No,"Chicken Tariwala , Lassi , Chicken Biryani , Butter Chicken , Paratha , Tandoori Chicken , Chicken Tikka"
+"Hakka Village Chinese Restaurant",Kolkata,Tangra,3.3,42,Chinese,Yes,No,NULL
+"Sony Aap ki Rasoi","Delhi NCR","Sector 39, Gurgaon",0,0,"North Indian, Street Food, Chinese",Yes,No,NULL
+Ambrozia,"Delhi NCR","Sector 72, Noida",0,0,"North Indian, Mughlai",Yes,No,NULL
+"Appayan Restaurant",Kolkata,Rishra,3.4,52,"North Indian, Chinese",Yes,No,NULL
+"Cheer Up Point Momos","Delhi NCR",Saket,3.5,21,Momos,Yes,No,NULL
+"Vinayak Foods",Mumbai,"Kandivali West",3.4,14,"Chinese, North Indian",Yes,No,NULL
+"Come Home","Delhi NCR",Safdarjung,3.4,20,"North Eastern, Chinese",Yes,No,NULL
+"Henry's Cafe","Delhi NCR",Khanpur,3.4,33,"North Indian, Fast Food",Yes,No,NULL
+"The Grammar Room","Delhi NCR",Mehrauli,4.3,834,Cafe,Yes,No,"Coffee , Fries , Cocktails , Hot Chocolate , Chicken Sandwich , Wine , Salad"
+"Tandoori Lounge","Delhi NCR","Sector 50, Gurgaon",3.5,43,"North Indian, Chinese",Yes,No,"Paneer Lababdar , Naan"
+"Continental Dhaba","Delhi NCR","Kailash Colony",3.7,168,"North Indian",No,No,"Rolls , Butter Chicken , Chicken Tikka Roll , Dal Makhani , Rajma Chawal , Tandoori Chicken , Mutton Roll"
+"Brijwasi Fast Food","Delhi NCR","Qutab Institutional Area",0,0,"North Indian",No,No,NULL
+Shan-E-Punjab,"Delhi NCR",Ballabhgarh,0,0,"North Indian",No,No,NULL
+"The Treat",Kolkata,Chinsura,0,0,"Mishti, South Indian, Street Food, Desserts",Yes,No,NULL
+"Maame Di Hatti","Delhi NCR","Karol Bagh",3.3,8,"North Indian",No,No,NULL
+"Angeethi Chaap","Delhi NCR","Dilshad Garden",0,0,"Rolls, North Indian",No,No,NULL
+"Decent Restaurant",Mumbai,Vikhroli,3.5,162,"Mughlai, North Indian, Chinese",Yes,No,"Roti , Balti Murgh , Crispy Chicken , Mutton Biryani , Butter Chicken , Chicken Biryani , Chicken Lollipop"
+"Rocking Rolls","Delhi NCR","DLF Phase 3",0,0,"Rolls, Chinese, Lebanese, Beverages",No,No,NULL
+"Suvidha Vegetarian","Delhi NCR",Daryaganj,3.9,196,"North Indian",Yes,No,"Dal Makhani , Shahi Paneer , Malai Kofta , Palak Paneer , Naan , Dal Tadka , Matar Paneer"
+"Aagri Koli Mejwani",Mumbai,Ulwe,3.4,17,"North Indian",Yes,No,NULL
+"Kitchen 27",Kolkata,Serampore,3.5,99,"North Indian, South Indian, Chinese, Street Food, Fast Food",No,No,"Chaat , Thali , Butter Masala Dosa"
+"Pahaadi Prantha Co.","Delhi NCR","Model Town 1",3.4,14,"North Indian",Yes,No,NULL
+"Cafe Red","Delhi NCR","Shahpur Jat",3.8,373,"Cafe, Italian",Yes,No,"Coffee , Pasta , Pizza , Cappuccino , Club Sandwich , Ratatouille , Grilled Chicken Salad"
+"Shama Shahi Chicken Corner","Delhi NCR",Mahipalpur,0,0,Mughlai,No,No,NULL
+Masque,Mumbai,Mahalaxmi,4.3,369,"Modern Indian",No,Yes,"Cocktails , Wine , Salad , Lobster , Chips , Coffee , Mocktails"
+"The Crazy Chef","Delhi NCR","Rana Pratap Bagh",3.6,70,"Fast Food, Momos",Yes,No,"Tandoori Momos , Gravy Momo , Masala Fries , Chicken Lollipop , Afghani Momos , Cheese Maggi , Paneer Momos"
+"Stun the Sun",Kolkata,"Camac Street Area",3.4,245,"Continental, Mexican, Italian, Chinese",Yes,No,"Jacked Potato , Pasta , Mexican Rice , Pizza , Purple Rain , Nachos"
+"Bikano Chat Cafe","Delhi NCR","Delhi Cantt.",3.6,20,"South Indian, North Indian",No,No,NULL
+"Game of Kebabs","Delhi NCR",Rohini,3.2,14,"Mughlai, Kebab, North Indian, Biryani, Rolls",Yes,No,NULL
+Cake,"Delhi NCR","Sohna Road",0,0,Bakery,No,No,NULL
+"New Parathe Wali Gali","Delhi NCR","Mayur Vihar Phase 1",3.5,37,"North Indian, Fast Food",Yes,No,NULL
+"New Dhaba Taste",Kolkata,"Bara Bazar",0,0,"Biryani, North Indian",No,No,NULL
+"Dhaba Terminal 51","Delhi NCR","Sector 12, Faridabad",2.9,99,"North Indian, Chinese",Yes,No,NULL
+"Vignesh Fast Food","Delhi NCR",Naraina,3.4,14,"Chinese, South Indian",No,No,NULL
+"Fitbuds Kitchen","Delhi NCR","Sector 72, Noida",0,0,"Fast Food",No,No,NULL
+Cakebak,"Delhi NCR","Sector 61, Noida",3.3,12,"Bakery, Desserts",No,No,NULL
+"Shri Annapurna Punjabi Dine",Mumbai,Girgaum,3.5,202,"North Indian, Chinese",Yes,No,"Pav Bhaji , Thali , Paneer Tikka Masala , Naan"
+"Sata Paan","Delhi NCR",Janakpuri,0,0,Paan,No,No,NULL
+"Mughal Darbar","Delhi NCR","Punjabi Bagh",3.9,305,"North Indian, Mughlai, Chinese",Yes,No,"Butter Chicken , Dal Makhani , Shehnai Chicken , Keema Naan , Paneer Tikka , Butter Naan , Reshmi Kebab"
+"Kolhapuri Pehelwan And Snack Center",Mumbai,Airoli,0,0,"Street Food",No,No,NULL
+"The Burger Guru","Delhi NCR","Malviya Nagar",0,0,"Fast Food",Yes,No,NULL
+"Shree Ram Dhaba",Kolkata,"Bara Bazar",3.7,265,"North Indian",Yes,No,"Shahi Paneer"
+"Bahubali Cuisine","Delhi NCR","West Patel Nagar",0,0,"South Indian, North Indian, Beverages",No,No,NULL
+"Chinese Hub","Delhi NCR","Uttam Nagar",3.1,31,Chinese,Yes,No,NULL
+"Meerut Wale","Delhi NCR",Azadpur,3.5,74,"Mithai, Street Food",Yes,No,NULL
+Delhi-94,"Delhi NCR",Shahdara,3.1,6,"North Indian, South Indian, Chinese",No,No,NULL
+"Sagar Restaurant","Delhi NCR",NIT,3.4,20,"North Indian",Yes,No,NULL
+"Narula Lunch","Delhi NCR",Manesar,0,0,"North Indian",No,No,NULL
+"Pizza Hut","Delhi NCR","Sector 56, Gurgaon",3.7,508,"Italian, Pizza",Yes,No,"Chocolava Cake , Pasta , Chicken Pepperoni , Cheesy Pizza , Lava Cake , Cheesy Garlic Bread"
+"Roshini Fast Food & Dosa Corner",Mumbai,"Kopar Khairane",3.4,12,"South Indian, North Indian, Street Food",Yes,No,NULL
+"Tullis Bakers","Delhi NCR",Palam,0,0,Bakery,No,No,NULL
+"Daau's Pizza & Burger Point","Delhi NCR","Sector 83, Gurgaon (Gurugram)",3.7,61,"Fast Food",No,No,NULL
+iDabba,"Delhi NCR","Sector 39, Gurgaon",3.3,30,"North Indian",Yes,No,NULL
+Paramparaa,Kolkata,Bangur,3.3,135,"North Indian, Chinese",Yes,No,"Chicken Bharta , Chicken Kasha , Garlic Chicken , Gravy Chowmein"
+"Hotel 1 love lock",Kolkata,Ballygunge,0,0,"North Indian, Chinese",No,No,NULL
+"Guru Nanak Punjabi Dhaba","Delhi NCR",Kalkaji,0,0,"North Indian",No,No,NULL
+"Olympia Coffee House",Mumbai,Colaba,4,1012,"Mughlai, North Indian, Seafood",No,No,"Chicken Biryani , Tea , Keema Pav , Caramel Custard , Chai , Bun Maskas , Tandoori Chicken"
+"Pizza Crunch","Delhi NCR","Tilak Nagar",3.4,34,Pizza,Yes,No,NULL
+"Om Hotel","Delhi NCR",Jangpura,3.7,276,"North Indian, Mughlai",Yes,No,"Butter Chicken , Dal Makhani , Paneer Tikka , Mushroom Tikka , Malai Kofta , Tandoori Roti , Shahi Paneer"
+"Fat Albert","Delhi NCR","Sector 12, Dwarka",0,0,"North Indian",Yes,No,NULL
+"Saybeen Hotel",Mumbai,"Kandivali West",3.1,63,"Chinese, North Indian",No,No,NULL
+"Delight Cafe","Delhi NCR","Mohan Nagar",0,0,"Fast Food, North Indian",No,No,NULL
+"Haveli Restaurant","Delhi NCR","Old Railway Road",3,5,"North Indian, Chinese",Yes,No,NULL
+"The Coffee Bean & Tea Leaf",Kolkata,Ballygunge,4,563,"Cafe, Beverages",Yes,No,"Coffee , Sandwich , Cheesecake , Cappuccino , Hot Chocolate , Latte , Blueberry Muffin"
+"Sanjay  Restaurant",Mumbai,Chembur,3.5,50,"North Indian, Mughlai",Yes,No,NULL
+Dawat,"Delhi NCR","Lodhi Colony",3.5,104,"North Indian, Chinese",No,No,"Butter Chicken , Tandoori Chicken , Roti , Dal Makhani , Shahi Paneer , Kadhai Paneer"
+"The Curry Men","Delhi NCR","Sector 15, Noida",3.1,10,"North Indian",No,No,NULL
+"The Pizza House","Delhi NCR",Rohini,0,0,"Fast Food",No,No,NULL
+"Asli Zaika Chicken Biryani","Delhi NCR",Saket,0,0,"North Indian, Biryani",Yes,No,NULL
+"South Delhi Juice Corner","Delhi NCR",Khanpur,0,0,Juices,No,No,NULL
+"Singh Ching","Delhi NCR","Delhi University-GTB Nagar",3.9,706,"North Indian, Chinese, Mughlai",Yes,Yes,"Tandoori Momos , Dal Makhani , Butter Naan , Butter Chicken , Masala Momo , Tawa Chicken , Noodle"
+"Mohini Fast Food Centre",Kolkata,Baranagar,0,0,Chinese,No,No,NULL
+"The Curry House @ Viskon Rooms","Delhi NCR","Sushant Lok",0,0,"North Indian, Chinese",Yes,No,"Fried Rice , Shahi Paneer , Chilli Paneer , Dal Yellow"
+"Terminal 86","Delhi NCR","Sector 81, Faridabad",3.5,503,"North Indian, Chinese",Yes,No,"Dal Makhani , Paratha , Roti , Butter Chicken , Biryani"
+"Music & Mountains - Hillside Cafe","Delhi NCR","Greater Kailash 1 (GK1)",4.4,3222,"Cafe, Italian, Continental, Fast Food, Salad",No,Yes,"Pizza , Pasta , Coffee , Burgers , Wine , Salad , Fries"
+"Foody Uncle","Delhi NCR","Sector 35, Faridabad",0,0,"North Indian, Chinese",Yes,No,NULL
+"Aunty's Kitchen","Delhi NCR",Daryaganj,3.3,9,"North Indian",No,No,NULL
+"Sweet Corn",Kolkata,"Lake Town",3,55,"Chinese, North Indian",Yes,No,"Tandoori Chicken"
+"Maharsh-Ethiopian Cafe & Bites",Mumbai,Juhu,4,146,"Ethiopian, Continental",No,No,"Popcorn , Thali , Injera Bread , Beer , Fries"
+Chaskaa,"Delhi NCR","Anand Vihar",3.9,502,"Chinese, North Indian, Italian, Kebab, Momos",Yes,No,"Butter Chicken , Tandoori Momos , Dal Makhani , Butter Naan , Biryani , Shahi Paneer , Mutton Nihari"
+"Mom's Chinese Kitchen","Delhi NCR","Sector 20, Dwarka",0,0,Chinese,No,No,NULL
+Riso,Mumbai,"Ghatkopar East",0,0,"Italian, Mexican, Lebanese",No,No,"Pasta , Nachos , Mudcake , Mocktails , Brownie , Garlic Bread , Risotto"
+"Masala Factory","Delhi NCR","Sector 62, Noida",3.2,65,"North Indian, Street Food",Yes,No,NULL
+Hindmata,Mumbai,Tardeo,3.8,183,"Chinese, North Indian, South Indian, Fast Food",Yes,No,"Dal Tadka , Paneer Lollipop , Idli , Paneer Tikka Masala , Panneer Butter Masala , Hyderabadi Biryani , Butter Naan"
+"Friend Z Kitchen","Delhi NCR","Sector 7, Dwarka",0,0,"North Indian, Mughlai",No,No,NULL
+"Friends Fast Food Point","Delhi NCR","Uttam Nagar",0,0,"Fast Food, Momos",No,No,NULL
+"La Donna",Kolkata,"Kona Exp Way",3.1,203,"North Indian, Chinese",Yes,No,"Chicken Lollipop , Mixed Fried Rice , Garlic Chicken"
+Chicklecious,"Delhi NCR","Kavi Nagar",0,0,"Charcoal Chicken, Roast Chicken",No,No,NULL
+"Praveen Vaishno Dhaba","Delhi NCR",Rohini,0,0,"North Indian",No,No,NULL
+Hakkasan,"Delhi NCR","Sector 14, Gurgaon",0,0,Chinese,Yes,No,NULL
+"Punjabi Swad","Delhi NCR","Sector 53, Noida",2.6,13,"North Indian",Yes,No,NULL
+"Good Luck Cafe","Delhi NCR","Majnu ka Tila",0,0,"Ice Cream",No,No,NULL
+"Sera Bangali",Kolkata,Baranagar,0,0,"North Indian",No,No,NULL
+"The Good Pasta","Delhi NCR",Kalkaji,3.6,119,"Italian, Continental, Salad",Yes,No,"Pasta , Basil Pesto Spaghetti , Coffee , Kit Kat Shake , Penne Primavera , Mint Oreo Shake , Greek Salad"
+Ichizen,"Delhi NCR","Sector 15, Gurgaon",3.7,30,Japanese,Yes,Yes,NULL
+Quesfie,"Delhi NCR","Sector 72, Noida",0,0,Biryani,No,No,NULL
+"Kailash Parbat",Mumbai,Khar,2.7,193,"North Indian, South Indian, Chinese, Street Food",Yes,No,"Chaat , Panipuri , Pav Bhaji , Chole Bhature , Nachos , Faluda , Kulfi"
+"Amrits Pick & Carry Snacks","Delhi NCR","Moti Nagar",0,0,Rolls,Yes,No,NULL
+"City of Joy","Delhi NCR",Alaknanda,4,724,Bengali,Yes,No,"Luchi , Kosha Mangsho , Mutton Kosha , Fish Fry , Mochar Ghonto , Mutton Biryani , Posto Narkel Bora"
+Floriana,Kolkata,"Park Street Area",3.3,127,"North Indian, Chinese",Yes,No,"Biryani , Chicken Soup , Lamb"
+"Chinese Station",Mumbai,Kamothe,3.6,180,"Chinese, Biryani",Yes,No,"Biryani , Paneer Crispy"
+"The Puff House","Delhi NCR","Sector 7, Dwarka",3.1,7,"Cafe, Chinese, Continental",Yes,No,"Chicken Cheese Sandwich , Double Cheese Pizza , Chicken Tikka Sandwich , Paneer Delight Pizza"
+"Pirates of Grill","Delhi NCR","Sector 18, Noida",4.2,3245,"North Indian, Continental, Mughlai, Asian",No,No,"Chicken Tikka , Jalebi , Biryani , Brownie , Dal Makhani , Pineapple Grill , Paneer Tikka"
+"Break Free",Mumbai,"Malad West",3.8,115,"Bakery, Desserts, Fast Food",Yes,No,"Dutch Truffle Cake , Red Velvet Cake , Blueberry Cheesecake"
+"Ravi's Chinese Fast Food","Delhi NCR","Mukherjee Nagar",0,0,"Chinese, Fast Food",No,No,NULL
+"Sorrento - Shangri-La's - Eros Hotel, New Delhi","Delhi NCR","Connaught Place",4.1,257,"Continental, Italian, Pizza, Seafood",No,Yes,"Pizza , Salad , Pasta , Gnocchi , Risotto , Fish , Lasagne"
+Swadam,"Delhi NCR",Najafgarh,3.2,5,"South Indian",No,No,NULL
+"Wake Up Delhi","Delhi NCR",Saket,0,0,"North Indian, Chinese",Yes,No,NULL
+"Salt & Peper","Delhi NCR",Rohini,0,0,"North Indian, Chinese",No,No,NULL
+"Hot Kati Roll",Kolkata,"Park Street Area",3.7,771,Rolls,Yes,No,"Rolls , Kathi Roll , Double Chicken Egg Roll , Double Mutton Roll , Paneer Roll"
+"Food Express","Delhi NCR","Vivek Vihar, Delhi",3.8,249,"North Indian, Chinese",Yes,No,"Butter Chicken , Shahi Paneer , Tandoori Chaap , Malai Tikka , Tandoori Chicken , Afghan Chicken , Butter Naan"
+Teawist,"Delhi NCR",Karampura,3.5,38,Cafe,Yes,No,NULL
+"Rocks - The Bar","Delhi NCR","Raj Nagar",3.1,5,"Finger Food",No,No,"Vegetable Pizza , French Fries , Meat Ball Slider , Irish Potato Bites"
+Theobroma,"Delhi NCR","DLF Cyber City",4.3,1356,"Cafe, Bakery",Yes,No,"Coffee , Sandwich , Cupcake , Walnut Brownie , Walnut Cake , Dutch Truffle Cake , Creme Caramel"
+"Abhiskar Restaurant",Kolkata,Baranagar,2.8,21,"Bengali, Chinese, North Indian",No,No,NULL
+"Best Bakery","Delhi NCR","Qutab Institutional Area",0,0,"Bakery, Fast Food",Yes,No,NULL
+Allefesta,Kolkata,Naktala,3.1,180,"Pizza, Fast Food",Yes,No,"Crunchy Chicken , Fries , Onion Pizza , Pasta , Sandwich , Crispy Chicken , Chicken Schnitzel"
+"Biryani Darbar",Mumbai,"Kopar Khairane",3.4,208,"Biryani, North Indian, Chinese, Mughlai",Yes,No,"Raita , Chicken Dum Biryani , Egg Biryani , Vegetable Biryani , Butter Chicken , Shahi Tukda"
+"Hunger's Point",Mumbai,"Panch Pakhadi, Thane West",3.5,28,Chinese,Yes,No,NULL
+"Batra Corner","Delhi NCR","Ashok Vihar Phase 1",3.5,22,"North Indian",No,No,NULL
+"The Rolling Kitchen","Delhi NCR","DLF Phase 4",3.7,19,"Lebanese, Mexican",Yes,No,"Exotic Chicken Shawarma , Chicken Kebab Roll , Chicken Shawarama"
+"Pot Belly",Mumbai,Powai,0,0,"Fast Food",Yes,No,"Margherita Pizza , Pasta , Burgers , Bbq Chicken Pizza"
+"THR3E AM Friend","Delhi NCR","Sector 57, Gurgaon",3.6,44,"Fast Food",Yes,No,"Burgers , Pasta , Momos"
+"Uber Lounge","Delhi NCR","Greater Kailash 2 (GK2)",3.9,644,"Continental, North Indian, Italian, Salad",Yes,Yes,"Pizza , Cocktails , Beer , Veg Platter , Chilli Chicken , Mocktails , Malai Tikka"
+"Tadka Handi Da","Delhi NCR","Sector 23, Dwarka",0,0,"Chinese, North Indian",No,No,NULL
+"Lust - Radisson Blu Kaushambi Delhi NCR","Delhi NCR",Kaushambi,3.8,112,"Finger Food",No,No,"Cocktails , Mojito"
+"Gluten Free Bakes By The Celiac Store","Delhi NCR","Defence Colony",0,0,Bakery,No,No,NULL
+"Chaat Haat","Delhi NCR","South Delhi",3.8,123,"Fast Food, Street Food",Yes,No,"Pav Bhaji , Burgers , Papdi Chaat , Poha , Basket Chat , Bhel Puri , Kulcha"
+"Thakur Rasoi","Delhi NCR","DLF Phase 4",0,0,"North Indian",No,No,NULL
+Dinar,"Delhi NCR","Moti Bagh",0,0,"Asian, Continental, Italian, Mexican, Thai, Afghan",No,No,NULL
+"Golden Spoon",Kolkata,"Park Street Area",3.7,964,"North Indian, Chinese, Biryani, Fast Food, Rolls",Yes,No,"Rolls , Chicken Drumstick , Paneer Roll , Chicken Roll , Chicken Biryani , Reshmi Kebab , Chicken Tikka Butter Masala"
+"Cake Addiction",Kolkata,Baranagar,0,0,Bakery,No,No,NULL
+"Chaska Chaap Corner","Delhi NCR","Malviya Nagar",3.6,88,"North Indian, Rolls",Yes,No,"Rumali Roti , Malai Chaap , Masala Chaap , Soya Chaap Roll"
+"The Circle","Delhi NCR","Knowledge Park",3.3,73,"Cafe, Italian, Chinese, Fast Food",Yes,No,"Sandwich , Cocktail Momos , Chilli Paneer , White Sauce Pasta"
+"Spice House",Mumbai,Khar,3.6,35,"Chinese, Fast Food, Beverages",Yes,No,NULL
+"Ram G Snacks & Food Corner","Delhi NCR","Netaji Subhash Place",3.8,129,"North Indian, Chinese, Street Food",Yes,No,"Pizza Samosa , Paneer Samosa , Macaroni Samosa , Chowmein , Chocolate Samosa , Spring Roll , Paratha"
+Luncherpaaji,"Delhi NCR",Saket,3.1,8,"North Indian",No,No,NULL
+"Indian Tandoori Chicken","Delhi NCR","Vasundhara Enclave",2.9,4,"North Indian",Yes,No,NULL
+Chefsomania,"Delhi NCR",Rohini,0,0,"Fast Food",No,No,NULL
+"Bites Cafe","Delhi NCR",Naraina,3.7,41,"Desserts, Fast Food, Burger, Sandwich, Italian",Yes,No,"Belgian Waffles"
+Parathawala,Mumbai,Marol,4,0,"North Indian, Sindhi",Yes,No,NULL
+"Kolhapuri Thaska",Mumbai,Kamothe,3,71,Maharashtrian,Yes,No,NULL
+"China Blue",Kolkata,Baghajatin,2.6,172,"Chinese, Biryani, Fast Food",Yes,No,"Noodle , Egg Fried Rice"
+"The Drunken Botanist","Delhi NCR","DLF Cyber City",4.4,5659,"Continental, Italian, North Indian, Chinese",No,No,"Cocktails , Beer , Pizza , Pasta , Nachos , Sushi , Long Island Iced Tea"
+"Mr Lazeez","Delhi NCR",Janakpuri,2.9,30,"North Indian, Chinese",Yes,No,NULL
+"Mad About Cakes","Delhi NCR","Golf Course Road",0,0,Bakery,No,No,NULL
+"Foody House","Delhi NCR",Janakpuri,0,0,"Fast Food",Yes,No,NULL
+"Banke Bihari Ji Ki Rasoi","Delhi NCR",Rohini,3,4,"North Indian",No,No,NULL
+"Chokhelal Chaat","Delhi NCR","Jail Road",3.3,13,"Street Food",No,No,NULL
+"Garam Masala",Kolkata,"Dalhousie BBD Bagh",3.6,98,"South Indian, Chinese, North Indian",No,No,"Tea , Chai , Thali , Vada"
+Chango,"Delhi NCR",Khanpur,3.6,23,"North Indian, Chinese",Yes,No,NULL
+"Maska On Chaskas",Kolkata,Baranagar,3,7,"Fast Food",No,No,NULL
+"ProFit Kitchen","Delhi NCR","Sector 41, Noida",3.4,21,"Healthy Food",No,No,NULL
+"Hotel Gavraan",Mumbai,Kalyan,3.5,47,"Maharashtrian, Fast Food, Chinese, North Indian",Yes,No,NULL
+"Connexions Bar - Crowne Plaza","Delhi NCR",Rohini,3.9,111,"Finger Food",No,No,"Pasta , Mocktails"
+"Punjabi Sahib e Aalam","Delhi NCR","Paschim Vihar",3.4,65,"North Indian, Mughlai",No,No,"Butter Chicken , Dal Makhani , Kadhai Murgh , Chaap"
+"Shreeji Thali",Mumbai,"Veera Desai Area",4,43,"North Indian",Yes,No,"Puran Poli , Aamras , Dahi Vada , Chaach , Gujarati Thali , Gulab Jamun , Veg Thali"
+"The Crunch Box","Delhi NCR",Saket,4.1,165,"Fast Food",Yes,No,"Chocolate Popcorn , Caramel Popcorn , Chunky Munky Cheese , Caramel Crunch , Jalapeno Cheese Poppers"
+"Big On Biryani","Delhi NCR","South Delhi",0,0,"Biryani, Mughlai",No,No,NULL
+Foodling,"Delhi NCR",Kalkaji,0,0,"North Indian, Continental",Yes,No,NULL
+"Pahalwan Ji","Delhi NCR","Zakir Nagar",3.6,21,"Mithai, Beverages",Yes,No,NULL
+"Wong's Kitchen","Delhi NCR",Rohini,4.3,560,"Chinese, Fast Food, North Indian",Yes,No,"Kurkure Momo , Rolls , Kathi Roll , Paneer Tikka , Crispy Momos , Paneer Kurkure , Chicken Roll"
+"Golden Fiesta","Delhi NCR","Lajpat Nagar 2",4,402,"Fast Food, Desserts, Beverages, Bakery",No,No,"Waffles , Chinese Chaat , Chinese Platter , Sandwich , Brownie , Burgers , Donut"
+"Grill & Cafe","Delhi NCR","Sector 14, Gurgaon",0,0,"Chinese, North Indian",No,No,NULL
+"Calcutta Calling",Kolkata,Kasba,3.6,149,"North Indian, Chinese, Thai",Yes,No,"Noodle , Butter Chicken"
+"Dhaba Shaba","Delhi NCR","Sector 10, Dwarka",3.1,16,"North Indian, Chinese",Yes,No,NULL
+"Shobit Food","Delhi NCR","Delta 1",0,0,"North Indian",No,No,NULL
+"Cakes R Us",Mumbai,"Near Andheri East Station",3.6,47,"Bakery, Desserts",Yes,No,NULL
+"Yummy Tummy Chole Bhature","Delhi NCR",Janakpuri,3.1,7,"North Indian",Yes,No,NULL
+"Pappu Chat Bhandar","Delhi NCR","Paschim Vihar",3,4,"Street Food",No,No,NULL
+"Calcutta Brasserie",Kolkata,Gariahat,3.4,49,Bengali,Yes,No,"Fish Fry"
+"Mahi's Kitchen",Kolkata,Baranagar,3.1,8,"Bengali, Italian, Chinese",No,No,NULL
+Nuterro,"Delhi NCR","Sector 37, Gurgaon",3.8,134,"Healthy Food, Salad, Beverages",No,No,"Chicken Skewer , Parmesan Chicken , Quinoa Salad , Fish Grill , Chicken Salad"
+"Healthy Bites",Mumbai,Kalyan,3.5,33,"Healthy Food, Beverages",Yes,No,"Omelette , Chicken Salad Sandwich"
+"Aggarwal Chhole Bhature","Delhi NCR",Rohini,3.8,92,"North Indian",Yes,No,"Chole Bhature , Lassi , Palak Paneer , Chhole Bhature"
+"Pizza Castle",Mumbai,Sion,3.5,31,"Pizza, Italian, Fast Food, Beverages",Yes,No,NULL
+"Look Uttapams","Delhi NCR","Sector 62, Noida",3.5,39,"South Indian",Yes,No,NULL
+"Moju Juice Bar","Delhi NCR","Sector 72, Noida",3.2,14,Juices,Yes,No,NULL
+"Uttrakhand Rasoi","Delhi NCR",Kalkaji,0,0,"North Indian, Chinese",No,No,NULL
+"Paratha King","Delhi NCR","Crossing Republik",3,118,"North Indian",Yes,No,Paratha
+"The Floresta Restaurant",Kolkata,Baguihati,3.5,65,"Chinese, North Indian",Yes,No,"Butter Naan , Chicken Bharta , Mixed Noodles , Crispy Babycorn"
+"Bikaner Sweets","Delhi NCR",Kapashera,0,0,Mithai,No,No,NULL
+"Eat Out",Kolkata,"Picnic Garden",3.1,5,"North Indian, Chinese",Yes,No,NULL
+"Veg Grill","Delhi NCR","Alpha 1",3.2,124,"North Indian, Chinese",Yes,No,"Vegetable Noodles , Malai Chaap , Thali"
+"Mandarin Kitchen",Mumbai,"4 Bungalows",4,352,Asian,Yes,No,"Kung Pao Chicken , Momos , Tom Kha Soup , Chicken Wok , Spring Roll , Chicken Momo , Schezwan Fried Rice"
+"City Spice","Delhi NCR",NIT,2.6,35,"North Indian, Chinese",Yes,No,NULL
+"Jain Food","Delhi NCR","North Delhi",3.5,26,"North Indian, South Indian",No,No,NULL
+"Kitchen Express","Delhi NCR","Sector 86, Faridabad",3.1,5,"Biryani, Burger, Chinese, Fast Food, Modern Indian",No,No,NULL
+"Momma's Kitchen","Delhi NCR","Sector 56, Gurgaon",3,6,"Bengali, North Indian",Yes,No,NULL
+"Amigo's Hub","Delhi NCR",Satyaniketan,3.9,470,Cafe,No,No,"Pizza , Momos , Pasta , Burgers , Cheese Nachos , Fries , Mocktails"
+"Biryani Blues","Delhi NCR","Connaught Place",4,2106,"Biryani, Hyderabadi",Yes,No,"Chicken Biryani , Chicken 65 , Hyderabadi Biryani , Mutton Biryani , Raita , Rose Lassi , Brownie"
+Lollipop,Kolkata,Baranagar,0,0,Chinese,No,No,NULL
+"The Medals Cake Shop",Mumbai,Nalasopara,3.6,66,"Bakery, Desserts, Fast Food",Yes,No,NULL
+"Sweet Peas","Delhi NCR","Sector 50, Gurgaon",3.2,8,"Bakery, Desserts",No,No,NULL
+"Preeti Sandwich & Food Junction",Mumbai,"Naupada, Thane West",3.9,289,"Fast Food, Beverages",Yes,No,"Faluda , Cheesy Garlic Bread , Pav Bhaji , Cheesy Corn , Chocolate Sandwich , Pizza , Grilled Sandwich"
+"Sushi Haus","Delhi NCR","East of Kailash",4,244,"Japanese, Sushi",Yes,No,"Sushi , Asparagus Roll , California Roll , Rolls , Spicy Salmon Roll , Sashimi , Avocado Maki"
+"The Jain's Kafe","Delhi NCR",Khanpur,3.2,12,"Fast Food",Yes,No,NULL
+Healtholic,"Delhi NCR","Sector 21, Gurgaon",4.1,75,"Healthy Food, Fast Food",Yes,No,"Salads , Sandwich , Sandwiches , Salad , Wings , Margherita Flatbread"
+"Malik Biryani","Delhi NCR",Kalkaji,3.2,6,"Biryani, North Indian",No,No,NULL
+"Ob Pizza","Delhi NCR",Nangloi,3.2,5,"Pizza, Fast Food",Yes,No,NULL
