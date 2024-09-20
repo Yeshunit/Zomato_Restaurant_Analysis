@@ -3,8 +3,7 @@
 ## Overview
 
 This project focuses on analyzing restaurant data from **Zomato**, a leading food delivery and restaurant discovery platform. The dataset includes various attributes like restaurant names, locations, cuisines, ratings, and services like online ordering and table reservations. The analysis is conducted using SQL and Excel, providing insights into restaurant performance, customer preferences, and service offerings.
-![{17B68750-3649-47E0-8517-098A34B67F4F}](https://github.com/user-attachments/assets/1bb42a1b-acd0-4fe2-ac53-f4000c20f5cd)
-
+![{3F28A4E3-A922-4E10-96B2-EE30A827B0BB}](https://github.com/user-attachments/assets/cb7cd48f-70ba-4857-a5f3-bfdab5329169)
 ## Dataset
 
 The dataset contains the following columns:
